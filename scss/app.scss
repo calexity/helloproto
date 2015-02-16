@@ -1,0 +1,94 @@
+@import "settings";
+@import "foundation";
+
+$font-stack-display: "aktiv-grotesk-std", sans-serif;
+$font-stack-body: "open sans", sans-serif;
+$background-color: #d8d5d4; /*light gray*/
+$text-color-one: #3ab992;  /*green*/
+$text-color-two: #333333; /*dark gray*/
+$accent-color: #ada9a8; /*medium gray*/
+
+/*=================================
+Base Styles
+=================================*/
+
+html {
+  font-size: 17px;
+}
+
+body {
+  background-color: $background-color;
+  font-family: $font-stack-body;
+  color: $text-color-two;
+}
+
+h1 {
+  font-family: $font-stack-display;
+  font-weight: bold;
+  font-size: 8rem;
+  line-height: 8rem;
+  color: $text-color-one;
+}
+
+h3 {
+  font-family: $font-stack-body;
+  font-weight: normal;
+  font-size: 1.25rem;
+  line-height: 1.25rem;
+  color: $text-color-two;
+}
+
+p {
+  font-size: 0.9rem;
+  line-height: 1.3rem;
+}
+
+/*=================================
+Custom Form
+=================================*/
+
+.main-form {
+  margin: 0 auto;
+  padding: 6rem;
+}
+
+label {
+  display: none;
+}
+
+select {
+  -webkit-appearance: menulist;
+  -moz-appearance: menulist;
+  appearance: menulist;
+  border-radius: 5px;
+}
+
+
+/*=================================
+Media Queries
+=================================*/
+
+@media all and (max-width: 581px) { 
+    .main-form  {
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 7rem;
+      line-height: 7rem;
+    }
+    h3 {
+      font-size: 1.2rem;
+      line-height: 1.2rem;
+    }
+    p {
+      font-size: 0.75rem;
+      line-height: 0.75rem;
+    }
+}
+
+
+@media all and (min-width: 581px) { 
+    .main-form  {
+      max-width: 550px;
+    }
+}

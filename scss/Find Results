@@ -1,0 +1,2509 @@
+Searching 331 files for "!important"
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/foundation/css/foundation.css:
+   83  .map_canvas embed,
+   84  .map_canvas object {
+   85:   max-width: none !important; }
+   86  
+   87  .left {
+   88:   float: left !important; }
+   89  
+   90  .right {
+   91:   float: right !important; }
+   92  
+   93  .clearfix:before, .clearfix:after {
+   ..
+  337  
+  338    .small-offset-0 {
+  339:     margin-left: 0% !important; }
+  340  
+  341    .small-offset-1 {
+  342:     margin-left: 8.33333% !important; }
+  343  
+  344    .small-offset-2 {
+  345:     margin-left: 16.66667% !important; }
+  346  
+  347    .small-offset-3 {
+  348:     margin-left: 25% !important; }
+  349  
+  350    .small-offset-4 {
+  351:     margin-left: 33.33333% !important; }
+  352  
+  353    .small-offset-5 {
+  354:     margin-left: 41.66667% !important; }
+  355  
+  356    .small-offset-6 {
+  357:     margin-left: 50% !important; }
+  358  
+  359    .small-offset-7 {
+  360:     margin-left: 58.33333% !important; }
+  361  
+  362    .small-offset-8 {
+  363:     margin-left: 66.66667% !important; }
+  364  
+  365    .small-offset-9 {
+  366:     margin-left: 75% !important; }
+  367  
+  368    .small-offset-10 {
+  369:     margin-left: 83.33333% !important; }
+  370  
+  371    .small-offset-11 {
+  372:     margin-left: 91.66667% !important; }
+  373  
+  374    .small-reset-order {
+  ...
+  580  
+  581    .medium-offset-0 {
+  582:     margin-left: 0% !important; }
+  583  
+  584    .medium-offset-1 {
+  585:     margin-left: 8.33333% !important; }
+  586  
+  587    .medium-offset-2 {
+  588:     margin-left: 16.66667% !important; }
+  589  
+  590    .medium-offset-3 {
+  591:     margin-left: 25% !important; }
+  592  
+  593    .medium-offset-4 {
+  594:     margin-left: 33.33333% !important; }
+  595  
+  596    .medium-offset-5 {
+  597:     margin-left: 41.66667% !important; }
+  598  
+  599    .medium-offset-6 {
+  600:     margin-left: 50% !important; }
+  601  
+  602    .medium-offset-7 {
+  603:     margin-left: 58.33333% !important; }
+  604  
+  605    .medium-offset-8 {
+  606:     margin-left: 66.66667% !important; }
+  607  
+  608    .medium-offset-9 {
+  609:     margin-left: 75% !important; }
+  610  
+  611    .medium-offset-10 {
+  612:     margin-left: 83.33333% !important; }
+  613  
+  614    .medium-offset-11 {
+  615:     margin-left: 91.66667% !important; }
+  616  
+  617    .medium-reset-order {
+  ...
+  943  
+  944    .large-offset-0 {
+  945:     margin-left: 0% !important; }
+  946  
+  947    .large-offset-1 {
+  948:     margin-left: 8.33333% !important; }
+  949  
+  950    .large-offset-2 {
+  951:     margin-left: 16.66667% !important; }
+  952  
+  953    .large-offset-3 {
+  954:     margin-left: 25% !important; }
+  955  
+  956    .large-offset-4 {
+  957:     margin-left: 33.33333% !important; }
+  958  
+  959    .large-offset-5 {
+  960:     margin-left: 41.66667% !important; }
+  961  
+  962    .large-offset-6 {
+  963:     margin-left: 50% !important; }
+  964  
+  965    .large-offset-7 {
+  966:     margin-left: 58.33333% !important; }
+  967  
+  968    .large-offset-8 {
+  969:     margin-left: 66.66667% !important; }
+  970  
+  971    .large-offset-9 {
+  972:     margin-left: 75% !important; }
+  973  
+  974    .large-offset-10 {
+  975:     margin-left: 83.33333% !important; }
+  976  
+  977    .large-offset-11 {
+  978:     margin-left: 91.66667% !important; }
+  979  
+  980    .large-reset-order {
+  ...
+ 1150    .accordion .accordion-navigation, .accordion dd {
+ 1151      display: block;
+ 1152:     margin-bottom: 0 !important; }
+ 1153      .accordion .accordion-navigation.active > a, .accordion dd.active > a {
+ 1154        background: #e8e8e8; }
+ ....
+ 2287            display: block; }
+ 2288          .clearing-assembled .clearing-container .carousel > ul li img {
+ 2289:           cursor: pointer !important;
+ 2290:           width: 100% !important; }
+ 2291          .clearing-assembled .clearing-container .carousel > ul li.visible {
+ 2292            opacity: 1; }
+ ....
+ 2533      max-width: 800px; }
+ 2534    .f-dropdown.mega {
+ 2535:     width: 100% !important;
+ 2536:     max-width: 100% !important; }
+ 2537      .f-dropdown.mega.open {
+ 2538:       left: 0 !important; }
+ 2539  
+ 2540  .dropdown.button, button.dropdown {
+ ....
+ 2642    /* Styles for required inputs */ }
+ 2643    label.right {
+ 2644:     float: none !important;
+ 2645      text-align: right; }
+ 2646    label.inline {
+ ....
+ 2835  /* Add height value for select elements to match text input height */
+ 2836  select {
+ 2839    background-color: #FAFAFA;
+ ....
+ 3163    padding: 1.125rem 1.25rem 1.5rem; }
+ 3164    .joyride-content-wrapper .button {
+ 3165:     margin-bottom: 0 !important; }
+ 3166    .joyride-content-wrapper .joyride-prev-tip {
+ 3167      margin-right: 10px; }
+ ....
+ 3178      border-top-style: solid;
+ 3179      border-color: #333333;
+ 3180:     border-top-color: transparent !important;
+ 3181:     border-left-color: transparent !important;
+ 3182:     border-right-color: transparent !important;
+ 3183      top: -20px; }
+ 3184    .joyride-tip-guide .joyride-nub.bottom {
+ 3185      border-bottom-style: solid;
+ 3186:     border-color: #333333 !important;
+ 3187:     border-bottom-color: transparent !important;
+ 3188:     border-left-color: transparent !important;
+ 3189:     border-right-color: transparent !important;
+ 3190      bottom: -20px; }
+ 3191    .joyride-tip-guide .joyride-nub.right {
+ ....
+ 3229    right: 12px;
+ 3230    top: 10px;
+ 3231:   color: #777777 !important;
+ 3232    text-decoration: none;
+ 3233    font-size: 24px;
+ 3234    font-weight: normal;
+ 3235:   line-height: .5 !important; }
+ 3236    .joyride-close-tip:hover, .joyride-close-tip:focus {
+ 3237:     color: #EEEEEE !important; }
+ 3238  
+ 3239  .joyride-modal-bg {
+ ....
+ 3270      left: inherit; }
+ 3271      .joyride-tip-guide .joyride-nub.bottom {
+ 3272:       border-color: #333333 !important;
+ 3273:       border-bottom-color: transparent !important;
+ 3274:       border-left-color: transparent !important;
+ 3275:       border-right-color: transparent !important;
+ 3276        bottom: -20px; }
+ 3277      .joyride-tip-guide .joyride-nub.right {
+ 3278:       border-color: #333333 !important;
+ 3279:       border-top-color: transparent !important;
+ 3280:       border-right-color: transparent !important;
+ 3281:       border-bottom-color: transparent !important;
+ 3282        top: 22px;
+ 3283        left: auto;
+ 3284        right: -20px; }
+ 3285      .joyride-tip-guide .joyride-nub.left {
+ 3286:       border-color: #333333 !important;
+ 3287:       border-top-color: transparent !important;
+ 3288:       border-left-color: transparent !important;
+ 3289:       border-bottom-color: transparent !important;
+ 3290        top: 22px;
+ 3291        left: -20px;
+ ....
+ 3494      color: white;
+ 3495      background-color: transparent;
+ 3496:     text-indent: -9999px !important;
+ 3497      z-index: 10; }
+ 3498      .orbit-container .orbit-prev:hover,
+ ....
+ 3566  @media only screen and (max-width: 40em) {
+ 3567    .orbit-stack-on-small .orbit-slides-container {
+ 3568:     height: auto !important; }
+ 3569    .orbit-stack-on-small .orbit-slides-container > * {
+ 3570      position: relative;
+ 3571:     margin: 0 !important;
+ 3572:     opacity: 1 !important; }
+ 3573    .orbit-stack-on-small .orbit-slide-number {
+ 3574      display: none; }
+ ....
+ 3919      height: 100vh;
+ 3920      min-height: 100vh;
+ 3921:     max-width: none !important;
+ 3922:     margin-left: 0 !important; }
+ 3923      @media only screen and (min-width: 40.063em) {
+ 3924        .reveal-modal.full {
+ ....
+ 4253  
+ 4254  .tabs {
+ 4255:   margin-bottom: 0 !important;
+ 4256    margin-left: 0; }
+ 4257    .tabs:before, .tabs:after {
+ ....
+ 4262    .tabs dd, .tabs .tab-title {
+ 4263      position: relative;
+ 4264:     margin-bottom: 0 !important;
+ 4265      list-style: none;
+ 4266      float: left; }
+ ....
+ 4358      color: #008CBA; }
+ 4359    .has-tip.tip-left, .has-tip.tip-right {
+ 4360:     float: none !important; }
+ 4361  
+ 4362  .tooltip {
+ ....
+ 4393        left: 2rem; }
+ 4394    .tooltip.opened {
+ 4395:     color: #008CBA !important;
+ 4396:     border-bottom: dotted 1px #003f54 !important; }
+ 4397  
+ 4398  .tap-to-close {
+ ....
+ 4411      bottom: -10px; }
+ 4412    .tooltip.tip-left, .tooltip.tip-right {
+ 4413:     float: none !important; }
+ 4414    .tooltip.tip-left > .nub {
+ 4415      border-color: transparent transparent transparent #333333;
+ ....
+ 4692        .top-bar-section .has-dropdown.moved > .dropdown {
+ 4693          display: block;
+ 4694:         position: static !important;
+ 4695          height: auto;
+ 4696          width: auto;
+ 4697          overflow: visible;
+ 4698          clip: auto;
+ 4699:         position: absolute !important;
+ 4700          width: 100%; }
+ 4701        .top-bar-section .has-dropdown.moved > a:after {
+ ....
+ 4708      z-index: 99;
+ 4709      display: block;
+ 4710:     position: absolute !important;
+ 4711      height: 1px;
+ 4712      width: 1px;
+ ....
+ 4782    .top-bar-section {
+ 4783      transition: none 0 0;
+ 4784:     left: 0 !important; }
+ 4785      .top-bar-section ul {
+ 4786        width: auto;
+ 4787:       height: auto !important;
+ 4788        display: inline; }
+ 4789        .top-bar-section ul li {
+ ....
+ 4811          color: #FFFFFF; }
+ 4812      .top-bar-section .has-dropdown > a {
+ 4813:       padding-right: 2.1875rem !important; }
+ 4814        .top-bar-section .has-dropdown > a:after {
+ 4815          content: "";
+ ....
+ 4826        .top-bar-section .has-dropdown.moved > .dropdown {
+ 4827          display: block;
+ 4828:         position: absolute !important;
+ 4829          height: 1px;
+ 4830          width: 1px;
+ ....
+ 4833      .top-bar-section .has-dropdown.hover > .dropdown, .top-bar-section .has-dropdown.not-click:hover > .dropdown {
+ 4834        display: block;
+ 4835:       position: static !important;
+ 4836        height: auto;
+ 4837        width: auto;
+ 4838        overflow: visible;
+ 4839        clip: auto;
+ 4840:       position: absolute !important; }
+ 4841      .top-bar-section .has-dropdown > a:focus + .dropdown {
+ 4842        display: block;
+ 4843:       position: static !important;
+ 4844        height: auto;
+ 4845        width: auto;
+ 4846        overflow: visible;
+ 4847        clip: auto;
+ 4848:       position: absolute !important; }
+ 4849      .top-bar-section .has-dropdown .dropdown li.has-dropdown > a:after {
+ 4850        border: none;
+ ....
+ 4909    .no-js .top-bar-section .has-dropdown:hover > .dropdown {
+ 4910      display: block;
+ 4911:     position: static !important;
+ 4912      height: auto;
+ 4913      width: auto;
+ 4914      overflow: visible;
+ 4915      clip: auto;
+ 4916:     position: absolute !important; }
+ 4917    .no-js .top-bar-section .has-dropdown > a:focus + .dropdown {
+ 4918      display: block;
+ 4919:     position: static !important;
+ 4920      height: auto;
+ 4921      width: auto;
+ 4922      overflow: visible;
+ 4923      clip: auto;
+ 4924:     position: absolute !important; } }
+ 4925  .text-left {
+ 4926:   text-align: left !important; }
+ 4927  
+ 4928  .text-right {
+ 4929:   text-align: right !important; }
+ 4930  
+ 4931  .text-center {
+ 4932:   text-align: center !important; }
+ 4933  
+ 4934  .text-justify {
+ 4935:   text-align: justify !important; }
+ 4936  
+ 4937  @media only screen and (max-width: 40em) {
+ 4938    .small-only-text-left {
+ 4939:     text-align: left !important; }
+ 4940  
+ 4941    .small-only-text-right {
+ 4942:     text-align: right !important; }
+ 4943  
+ 4944    .small-only-text-center {
+ 4945:     text-align: center !important; }
+ 4946  
+ 4947    .small-only-text-justify {
+ 4948:     text-align: justify !important; } }
+ 4949  @media only screen {
+ 4950    .small-text-left {
+ 4951:     text-align: left !important; }
+ 4952  
+ 4953    .small-text-right {
+ 4954:     text-align: right !important; }
+ 4955  
+ 4956    .small-text-center {
+ 4957:     text-align: center !important; }
+ 4958  
+ 4959    .small-text-justify {
+ 4960:     text-align: justify !important; } }
+ 4961  @media only screen and (min-width: 40.063em) and (max-width: 64em) {
+ 4962    .medium-only-text-left {
+ 4963:     text-align: left !important; }
+ 4964  
+ 4965    .medium-only-text-right {
+ 4966:     text-align: right !important; }
+ 4967  
+ 4968    .medium-only-text-center {
+ 4969:     text-align: center !important; }
+ 4970  
+ 4971    .medium-only-text-justify {
+ 4972:     text-align: justify !important; } }
+ 4973  @media only screen and (min-width: 40.063em) {
+ 4974    .medium-text-left {
+ 4975:     text-align: left !important; }
+ 4976  
+ 4977    .medium-text-right {
+ 4978:     text-align: right !important; }
+ 4979  
+ 4980    .medium-text-center {
+ 4981:     text-align: center !important; }
+ 4982  
+ 4983    .medium-text-justify {
+ 4984:     text-align: justify !important; } }
+ 4985  @media only screen and (min-width: 64.063em) and (max-width: 90em) {
+ 4986    .large-only-text-left {
+ 4987:     text-align: left !important; }
+ 4988  
+ 4989    .large-only-text-right {
+ 4990:     text-align: right !important; }
+ 4991  
+ 4992    .large-only-text-center {
+ 4993:     text-align: center !important; }
+ 4994  
+ 4995    .large-only-text-justify {
+ 4996:     text-align: justify !important; } }
+ 4997  @media only screen and (min-width: 64.063em) {
+ 4998    .large-text-left {
+ 4999:     text-align: left !important; }
+ 5000  
+ 5001    .large-text-right {
+ 5002:     text-align: right !important; }
+ 5003  
+ 5004    .large-text-center {
+ 5005:     text-align: center !important; }
+ 5006  
+ 5007    .large-text-justify {
+ 5008:     text-align: justify !important; } }
+ 5009  @media only screen and (min-width: 90.063em) and (max-width: 120em) {
+ 5010    .xlarge-only-text-left {
+ 5011:     text-align: left !important; }
+ 5012  
+ 5013    .xlarge-only-text-right {
+ 5014:     text-align: right !important; }
+ 5015  
+ 5016    .xlarge-only-text-center {
+ 5017:     text-align: center !important; }
+ 5018  
+ 5019    .xlarge-only-text-justify {
+ 5020:     text-align: justify !important; } }
+ 5021  @media only screen and (min-width: 90.063em) {
+ 5022    .xlarge-text-left {
+ 5023:     text-align: left !important; }
+ 5024  
+ 5025    .xlarge-text-right {
+ 5026:     text-align: right !important; }
+ 5027  
+ 5028    .xlarge-text-center {
+ 5029:     text-align: center !important; }
+ 5030  
+ 5031    .xlarge-text-justify {
+ 5032:     text-align: justify !important; } }
+ 5033  @media only screen and (min-width: 120.063em) and (max-width: 99999999em) {
+ 5034    .xxlarge-only-text-left {
+ 5035:     text-align: left !important; }
+ 5036  
+ 5037    .xxlarge-only-text-right {
+ 5038:     text-align: right !important; }
+ 5039  
+ 5040    .xxlarge-only-text-center {
+ 5041:     text-align: center !important; }
+ 5042  
+ 5043    .xxlarge-only-text-justify {
+ 5044:     text-align: justify !important; } }
+ 5045  @media only screen and (min-width: 120.063em) {
+ 5046    .xxlarge-text-left {
+ 5047:     text-align: left !important; }
+ 5048  
+ 5049    .xxlarge-text-right {
+ 5050:     text-align: right !important; }
+ 5051  
+ 5052    .xxlarge-text-center {
+ 5053:     text-align: center !important; }
+ 5054  
+ 5055    .xxlarge-text-justify {
+ 5056:     text-align: justify !important; } }
+ 5057  /* Typography resets */
+ 5058  div,
+ ....
+ 5726  @media only screen {
+ 5727    .show-for-small-only, .show-for-small-up, .show-for-small, .show-for-small-down, .hide-for-medium-only, .hide-for-medium-up, .hide-for-medium, .show-for-medium-down, .hide-for-large-only, .hide-for-large-up, .hide-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {
+ 5728:     display: inherit !important; }
+ 5729  
+ 5730    .hide-for-small-only, .hide-for-small-up, .hide-for-small, .hide-for-small-down, .show-for-medium-only, .show-for-medium-up, .show-for-medium, .hide-for-medium-down, .show-for-large-only, .show-for-large-up, .show-for-large, .hide-for-large-down, .show-for-xlarge-only, .show-for-xlarge-up, .show-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .hide-for-xxlarge-down {
+ 5731:     display: none !important; }
+ 5732  
+ 5733    .visible-for-small-only, .visible-for-small-up, .visible-for-small, .visible-for-small-down, .hidden-for-medium-only, .hidden-for-medium-up, .hidden-for-medium, .visible-for-medium-down, .hidden-for-large-only, .hidden-for-large-up, .hidden-for-large, .visible-for-large-down, .hidden-for-xlarge-only, .hidden-for-xlarge-up, .hidden-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .visible-for-xxlarge-down {
+ 5734:     position: static !important;
+ 5735      height: auto;
+ 5736      width: auto;
+ ....
+ 5739  
+ 5740    .hidden-for-small-only, .hidden-for-small-up, .hidden-for-small, .hidden-for-small-down, .visible-for-medium-only, .visible-for-medium-up, .visible-for-medium, .hidden-for-medium-down, .visible-for-large-only, .visible-for-large-up, .visible-for-large, .hidden-for-large-down, .visible-for-xlarge-only, .visible-for-xlarge-up, .visible-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .hidden-for-xxlarge-down {
+ 5741:     position: absolute !important;
+ 5742      height: 1px;
+ 5743      width: 1px;
+ ....
+ 5746  
+ 5747    table.show-for-small-only, table.show-for-small-up, table.show-for-small, table.show-for-small-down, table.hide-for-medium-only, table.hide-for-medium-up, table.hide-for-medium, table.show-for-medium-down, table.hide-for-large-only, table.hide-for-large-up, table.hide-for-large, table.show-for-large-down, table.hide-for-xlarge-only, table.hide-for-xlarge-up, table.hide-for-xlarge, table.show-for-xlarge-down, table.hide-for-xxlarge-only, table.hide-for-xxlarge-up, table.hide-for-xxlarge, table.show-for-xxlarge-down {
+ 5748:     display: table !important; }
+ 5749  
+ 5750    thead.show-for-small-only, thead.show-for-small-up, thead.show-for-small, thead.show-for-small-down, thead.hide-for-medium-only, thead.hide-for-medium-up, thead.hide-for-medium, thead.show-for-medium-down, thead.hide-for-large-only, thead.hide-for-large-up, thead.hide-for-large, thead.show-for-large-down, thead.hide-for-xlarge-only, thead.hide-for-xlarge-up, thead.hide-for-xlarge, thead.show-for-xlarge-down, thead.hide-for-xxlarge-only, thead.hide-for-xxlarge-up, thead.hide-for-xxlarge, thead.show-for-xxlarge-down {
+ 5751:     display: table-header-group !important; }
+ 5752  
+ 5753    tbody.show-for-small-only, tbody.show-for-small-up, tbody.show-for-small, tbody.show-for-small-down, tbody.hide-for-medium-only, tbody.hide-for-medium-up, tbody.hide-for-medium, tbody.show-for-medium-down, tbody.hide-for-large-only, tbody.hide-for-large-up, tbody.hide-for-large, tbody.show-for-large-down, tbody.hide-for-xlarge-only, tbody.hide-for-xlarge-up, tbody.hide-for-xlarge, tbody.show-for-xlarge-down, tbody.hide-for-xxlarge-only, tbody.hide-for-xxlarge-up, tbody.hide-for-xxlarge, tbody.show-for-xxlarge-down {
+ 5754:     display: table-row-group !important; }
+ 5755  
+ 5756    tr.show-for-small-only, tr.show-for-small-up, tr.show-for-small, tr.show-for-small-down, tr.hide-for-medium-only, tr.hide-for-medium-up, tr.hide-for-medium, tr.show-for-medium-down, tr.hide-for-large-only, tr.hide-for-large-up, tr.hide-for-large, tr.show-for-large-down, tr.hide-for-xlarge-only, tr.hide-for-xlarge-up, tr.hide-for-xlarge, tr.show-for-xlarge-down, tr.hide-for-xxlarge-only, tr.hide-for-xxlarge-up, tr.hide-for-xxlarge, tr.show-for-xxlarge-down {
+ ....
+ 5758  
+ 5759    th.show-for-small-only, td.show-for-small-only, th.show-for-small-up, td.show-for-small-up, th.show-for-small, td.show-for-small, th.show-for-small-down, td.show-for-small-down, th.hide-for-medium-only, td.hide-for-medium-only, th.hide-for-medium-up, td.hide-for-medium-up, th.hide-for-medium, td.hide-for-medium, th.show-for-medium-down, td.show-for-medium-down, th.hide-for-large-only, td.hide-for-large-only, th.hide-for-large-up, td.hide-for-large-up, th.hide-for-large, td.hide-for-large, th.show-for-large-down, td.show-for-large-down, th.hide-for-xlarge-only, td.hide-for-xlarge-only, th.hide-for-xlarge-up, td.hide-for-xlarge-up, th.hide-for-xlarge, td.hide-for-xlarge, th.show-for-xlarge-down, td.show-for-xlarge-down, th.hide-for-xxlarge-only, td.hide-for-xxlarge-only, th.hide-for-xxlarge-up, td.hide-for-xxlarge-up, th.hide-for-xxlarge, td.hide-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+ 5760:     display: table-cell !important; } }
+ 5761  /* medium displays */
+ 5762  @media only screen and (min-width: 40.063em) {
+ 5763    .hide-for-small-only, .show-for-small-up, .hide-for-small, .hide-for-small-down, .show-for-medium-only, .show-for-medium-up, .show-for-medium, .show-for-medium-down, .hide-for-large-only, .hide-for-large-up, .hide-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {
+ 5764:     display: inherit !important; }
+ 5765  
+ 5766    .show-for-small-only, .hide-for-small-up, .show-for-small, .show-for-small-down, .hide-for-medium-only, .hide-for-medium-up, .hide-for-medium, .hide-for-medium-down, .show-for-large-only, .show-for-large-up, .show-for-large, .hide-for-large-down, .show-for-xlarge-only, .show-for-xlarge-up, .show-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .hide-for-xxlarge-down {
+ 5767:     display: none !important; }
+ 5768  
+ 5769    .hidden-for-small-only, .visible-for-small-up, .hidden-for-small, .hidden-for-small-down, .visible-for-medium-only, .visible-for-medium-up, .visible-for-medium, .visible-for-medium-down, .hidden-for-large-only, .hidden-for-large-up, .hidden-for-large, .visible-for-large-down, .hidden-for-xlarge-only, .hidden-for-xlarge-up, .hidden-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .visible-for-xxlarge-down {
+ 5770:     position: static !important;
+ 5771      height: auto;
+ 5772      width: auto;
+ ....
+ 5775  
+ 5776    .visible-for-small-only, .hidden-for-small-up, .visible-for-small, .visible-for-small-down, .hidden-for-medium-only, .hidden-for-medium-up, .hidden-for-medium, .hidden-for-medium-down, .visible-for-large-only, .visible-for-large-up, .visible-for-large, .hidden-for-large-down, .visible-for-xlarge-only, .visible-for-xlarge-up, .visible-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .hidden-for-xxlarge-down {
+ 5777:     position: absolute !important;
+ 5778      height: 1px;
+ 5779      width: 1px;
+ ....
+ 5782  
+ 5783    table.hide-for-small-only, table.show-for-small-up, table.hide-for-small, table.hide-for-small-down, table.show-for-medium-only, table.show-for-medium-up, table.show-for-medium, table.show-for-medium-down, table.hide-for-large-only, table.hide-for-large-up, table.hide-for-large, table.show-for-large-down, table.hide-for-xlarge-only, table.hide-for-xlarge-up, table.hide-for-xlarge, table.show-for-xlarge-down, table.hide-for-xxlarge-only, table.hide-for-xxlarge-up, table.hide-for-xxlarge, table.show-for-xxlarge-down {
+ 5784:     display: table !important; }
+ 5785  
+ 5786    thead.hide-for-small-only, thead.show-for-small-up, thead.hide-for-small, thead.hide-for-small-down, thead.show-for-medium-only, thead.show-for-medium-up, thead.show-for-medium, thead.show-for-medium-down, thead.hide-for-large-only, thead.hide-for-large-up, thead.hide-for-large, thead.show-for-large-down, thead.hide-for-xlarge-only, thead.hide-for-xlarge-up, thead.hide-for-xlarge, thead.show-for-xlarge-down, thead.hide-for-xxlarge-only, thead.hide-for-xxlarge-up, thead.hide-for-xxlarge, thead.show-for-xxlarge-down {
+ 5787:     display: table-header-group !important; }
+ 5788  
+ 5789    tbody.hide-for-small-only, tbody.show-for-small-up, tbody.hide-for-small, tbody.hide-for-small-down, tbody.show-for-medium-only, tbody.show-for-medium-up, tbody.show-for-medium, tbody.show-for-medium-down, tbody.hide-for-large-only, tbody.hide-for-large-up, tbody.hide-for-large, tbody.show-for-large-down, tbody.hide-for-xlarge-only, tbody.hide-for-xlarge-up, tbody.hide-for-xlarge, tbody.show-for-xlarge-down, tbody.hide-for-xxlarge-only, tbody.hide-for-xxlarge-up, tbody.hide-for-xxlarge, tbody.show-for-xxlarge-down {
+ 5790:     display: table-row-group !important; }
+ 5791  
+ 5792    tr.hide-for-small-only, tr.show-for-small-up, tr.hide-for-small, tr.hide-for-small-down, tr.show-for-medium-only, tr.show-for-medium-up, tr.show-for-medium, tr.show-for-medium-down, tr.hide-for-large-only, tr.hide-for-large-up, tr.hide-for-large, tr.show-for-large-down, tr.hide-for-xlarge-only, tr.hide-for-xlarge-up, tr.hide-for-xlarge, tr.show-for-xlarge-down, tr.hide-for-xxlarge-only, tr.hide-for-xxlarge-up, tr.hide-for-xxlarge, tr.show-for-xxlarge-down {
+ ....
+ 5794  
+ 5795    th.hide-for-small-only, td.hide-for-small-only, th.show-for-small-up, td.show-for-small-up, th.hide-for-small, td.hide-for-small, th.hide-for-small-down, td.hide-for-small-down, th.show-for-medium-only, td.show-for-medium-only, th.show-for-medium-up, td.show-for-medium-up, th.show-for-medium, td.show-for-medium, th.show-for-medium-down, td.show-for-medium-down, th.hide-for-large-only, td.hide-for-large-only, th.hide-for-large-up, td.hide-for-large-up, th.hide-for-large, td.hide-for-large, th.show-for-large-down, td.show-for-large-down, th.hide-for-xlarge-only, td.hide-for-xlarge-only, th.hide-for-xlarge-up, td.hide-for-xlarge-up, th.hide-for-xlarge, td.hide-for-xlarge, th.show-for-xlarge-down, td.show-for-xlarge-down, th.hide-for-xxlarge-only, td.hide-for-xxlarge-only, th.hide-for-xxlarge-up, td.hide-for-xxlarge-up, th.hide-for-xxlarge, td.hide-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+ 5796:     display: table-cell !important; } }
+ 5797  /* large displays */
+ 5798  @media only screen and (min-width: 64.063em) {
+ 5799    .hide-for-small-only, .show-for-small-up, .hide-for-small, .hide-for-small-down, .hide-for-medium-only, .show-for-medium-up, .hide-for-medium, .hide-for-medium-down, .show-for-large-only, .show-for-large-up, .show-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {
+ 5800:     display: inherit !important; }
+ 5801  
+ 5802    .show-for-small-only, .hide-for-small-up, .show-for-small, .show-for-small-down, .show-for-medium-only, .hide-for-medium-up, .show-for-medium, .show-for-medium-down, .hide-for-large-only, .hide-for-large-up, .hide-for-large, .hide-for-large-down, .show-for-xlarge-only, .show-for-xlarge-up, .show-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .hide-for-xxlarge-down {
+ 5803:     display: none !important; }
+ 5804  
+ 5805    .hidden-for-small-only, .visible-for-small-up, .hidden-for-small, .hidden-for-small-down, .hidden-for-medium-only, .visible-for-medium-up, .hidden-for-medium, .hidden-for-medium-down, .visible-for-large-only, .visible-for-large-up, .visible-for-large, .visible-for-large-down, .hidden-for-xlarge-only, .hidden-for-xlarge-up, .hidden-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .visible-for-xxlarge-down {
+ 5806:     position: static !important;
+ 5807      height: auto;
+ 5808      width: auto;
+ ....
+ 5811  
+ 5812    .visible-for-small-only, .hidden-for-small-up, .visible-for-small, .visible-for-small-down, .visible-for-medium-only, .hidden-for-medium-up, .visible-for-medium, .visible-for-medium-down, .hidden-for-large-only, .hidden-for-large-up, .hidden-for-large, .hidden-for-large-down, .visible-for-xlarge-only, .visible-for-xlarge-up, .visible-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .hidden-for-xxlarge-down {
+ 5813:     position: absolute !important;
+ 5814      height: 1px;
+ 5815      width: 1px;
+ ....
+ 5818  
+ 5819    table.hide-for-small-only, table.show-for-small-up, table.hide-for-small, table.hide-for-small-down, table.hide-for-medium-only, table.show-for-medium-up, table.hide-for-medium, table.hide-for-medium-down, table.show-for-large-only, table.show-for-large-up, table.show-for-large, table.show-for-large-down, table.hide-for-xlarge-only, table.hide-for-xlarge-up, table.hide-for-xlarge, table.show-for-xlarge-down, table.hide-for-xxlarge-only, table.hide-for-xxlarge-up, table.hide-for-xxlarge, table.show-for-xxlarge-down {
+ 5820:     display: table !important; }
+ 5821  
+ 5822    thead.hide-for-small-only, thead.show-for-small-up, thead.hide-for-small, thead.hide-for-small-down, thead.hide-for-medium-only, thead.show-for-medium-up, thead.hide-for-medium, thead.hide-for-medium-down, thead.show-for-large-only, thead.show-for-large-up, thead.show-for-large, thead.show-for-large-down, thead.hide-for-xlarge-only, thead.hide-for-xlarge-up, thead.hide-for-xlarge, thead.show-for-xlarge-down, thead.hide-for-xxlarge-only, thead.hide-for-xxlarge-up, thead.hide-for-xxlarge, thead.show-for-xxlarge-down {
+ 5823:     display: table-header-group !important; }
+ 5824  
+ 5825    tbody.hide-for-small-only, tbody.show-for-small-up, tbody.hide-for-small, tbody.hide-for-small-down, tbody.hide-for-medium-only, tbody.show-for-medium-up, tbody.hide-for-medium, tbody.hide-for-medium-down, tbody.show-for-large-only, tbody.show-for-large-up, tbody.show-for-large, tbody.show-for-large-down, tbody.hide-for-xlarge-only, tbody.hide-for-xlarge-up, tbody.hide-for-xlarge, tbody.show-for-xlarge-down, tbody.hide-for-xxlarge-only, tbody.hide-for-xxlarge-up, tbody.hide-for-xxlarge, tbody.show-for-xxlarge-down {
+ 5826:     display: table-row-group !important; }
+ 5827  
+ 5828    tr.hide-for-small-only, tr.show-for-small-up, tr.hide-for-small, tr.hide-for-small-down, tr.hide-for-medium-only, tr.show-for-medium-up, tr.hide-for-medium, tr.hide-for-medium-down, tr.show-for-large-only, tr.show-for-large-up, tr.show-for-large, tr.show-for-large-down, tr.hide-for-xlarge-only, tr.hide-for-xlarge-up, tr.hide-for-xlarge, tr.show-for-xlarge-down, tr.hide-for-xxlarge-only, tr.hide-for-xxlarge-up, tr.hide-for-xxlarge, tr.show-for-xxlarge-down {
+ ....
+ 5830  
+ 5831    th.hide-for-small-only, td.hide-for-small-only, th.show-for-small-up, td.show-for-small-up, th.hide-for-small, td.hide-for-small, th.hide-for-small-down, td.hide-for-small-down, th.hide-for-medium-only, td.hide-for-medium-only, th.show-for-medium-up, td.show-for-medium-up, th.hide-for-medium, td.hide-for-medium, th.hide-for-medium-down, td.hide-for-medium-down, th.show-for-large-only, td.show-for-large-only, th.show-for-large-up, td.show-for-large-up, th.show-for-large, td.show-for-large, th.show-for-large-down, td.show-for-large-down, th.hide-for-xlarge-only, td.hide-for-xlarge-only, th.hide-for-xlarge-up, td.hide-for-xlarge-up, th.hide-for-xlarge, td.hide-for-xlarge, th.show-for-xlarge-down, td.show-for-xlarge-down, th.hide-for-xxlarge-only, td.hide-for-xxlarge-only, th.hide-for-xxlarge-up, td.hide-for-xxlarge-up, th.hide-for-xxlarge, td.hide-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+ 5832:     display: table-cell !important; } }
+ 5833  /* xlarge displays */
+ 5834  @media only screen and (min-width: 90.063em) {
+ 5835    .hide-for-small-only, .show-for-small-up, .hide-for-small, .hide-for-small-down, .hide-for-medium-only, .show-for-medium-up, .hide-for-medium, .hide-for-medium-down, .hide-for-large-only, .show-for-large-up, .hide-for-large, .hide-for-large-down, .show-for-xlarge-only, .show-for-xlarge-up, .show-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {
+ 5836:     display: inherit !important; }
+ 5837  
+ 5838    .show-for-small-only, .hide-for-small-up, .show-for-small, .show-for-small-down, .show-for-medium-only, .hide-for-medium-up, .show-for-medium, .show-for-medium-down, .show-for-large-only, .hide-for-large-up, .show-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .hide-for-xxlarge-down {
+ 5839:     display: none !important; }
+ 5840  
+ 5841    .hidden-for-small-only, .visible-for-small-up, .hidden-for-small, .hidden-for-small-down, .hidden-for-medium-only, .visible-for-medium-up, .hidden-for-medium, .hidden-for-medium-down, .hidden-for-large-only, .visible-for-large-up, .hidden-for-large, .hidden-for-large-down, .visible-for-xlarge-only, .visible-for-xlarge-up, .visible-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .visible-for-xxlarge-down {
+ 5842:     position: static !important;
+ 5843      height: auto;
+ 5844      width: auto;
+ ....
+ 5847  
+ 5848    .visible-for-small-only, .hidden-for-small-up, .visible-for-small, .visible-for-small-down, .visible-for-medium-only, .hidden-for-medium-up, .visible-for-medium, .visible-for-medium-down, .visible-for-large-only, .hidden-for-large-up, .visible-for-large, .visible-for-large-down, .hidden-for-xlarge-only, .hidden-for-xlarge-up, .hidden-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .hidden-for-xxlarge-down {
+ 5849:     position: absolute !important;
+ 5850      height: 1px;
+ 5851      width: 1px;
+ ....
+ 5854  
+ 5855    table.hide-for-small-only, table.show-for-small-up, table.hide-for-small, table.hide-for-small-down, table.hide-for-medium-only, table.show-for-medium-up, table.hide-for-medium, table.hide-for-medium-down, table.hide-for-large-only, table.show-for-large-up, table.hide-for-large, table.hide-for-large-down, table.show-for-xlarge-only, table.show-for-xlarge-up, table.show-for-xlarge, table.show-for-xlarge-down, table.hide-for-xxlarge-only, table.hide-for-xxlarge-up, table.hide-for-xxlarge, table.show-for-xxlarge-down {
+ 5856:     display: table !important; }
+ 5857  
+ 5858    thead.hide-for-small-only, thead.show-for-small-up, thead.hide-for-small, thead.hide-for-small-down, thead.hide-for-medium-only, thead.show-for-medium-up, thead.hide-for-medium, thead.hide-for-medium-down, thead.hide-for-large-only, thead.show-for-large-up, thead.hide-for-large, thead.hide-for-large-down, thead.show-for-xlarge-only, thead.show-for-xlarge-up, thead.show-for-xlarge, thead.show-for-xlarge-down, thead.hide-for-xxlarge-only, thead.hide-for-xxlarge-up, thead.hide-for-xxlarge, thead.show-for-xxlarge-down {
+ 5859:     display: table-header-group !important; }
+ 5860  
+ 5861    tbody.hide-for-small-only, tbody.show-for-small-up, tbody.hide-for-small, tbody.hide-for-small-down, tbody.hide-for-medium-only, tbody.show-for-medium-up, tbody.hide-for-medium, tbody.hide-for-medium-down, tbody.hide-for-large-only, tbody.show-for-large-up, tbody.hide-for-large, tbody.hide-for-large-down, tbody.show-for-xlarge-only, tbody.show-for-xlarge-up, tbody.show-for-xlarge, tbody.show-for-xlarge-down, tbody.hide-for-xxlarge-only, tbody.hide-for-xxlarge-up, tbody.hide-for-xxlarge, tbody.show-for-xxlarge-down {
+ 5862:     display: table-row-group !important; }
+ 5863  
+ 5864    tr.hide-for-small-only, tr.show-for-small-up, tr.hide-for-small, tr.hide-for-small-down, tr.hide-for-medium-only, tr.show-for-medium-up, tr.hide-for-medium, tr.hide-for-medium-down, tr.hide-for-large-only, tr.show-for-large-up, tr.hide-for-large, tr.hide-for-large-down, tr.show-for-xlarge-only, tr.show-for-xlarge-up, tr.show-for-xlarge, tr.show-for-xlarge-down, tr.hide-for-xxlarge-only, tr.hide-for-xxlarge-up, tr.hide-for-xxlarge, tr.show-for-xxlarge-down {
+ ....
+ 5866  
+ 5867    th.hide-for-small-only, td.hide-for-small-only, th.show-for-small-up, td.show-for-small-up, th.hide-for-small, td.hide-for-small, th.hide-for-small-down, td.hide-for-small-down, th.hide-for-medium-only, td.hide-for-medium-only, th.show-for-medium-up, td.show-for-medium-up, th.hide-for-medium, td.hide-for-medium, th.hide-for-medium-down, td.hide-for-medium-down, th.hide-for-large-only, td.hide-for-large-only, th.show-for-large-up, td.show-for-large-up, th.hide-for-large, td.hide-for-large, th.hide-for-large-down, td.hide-for-large-down, th.show-for-xlarge-only, td.show-for-xlarge-only, th.show-for-xlarge-up, td.show-for-xlarge-up, th.show-for-xlarge, td.show-for-xlarge, th.show-for-xlarge-down, td.show-for-xlarge-down, th.hide-for-xxlarge-only, td.hide-for-xxlarge-only, th.hide-for-xxlarge-up, td.hide-for-xxlarge-up, th.hide-for-xxlarge, td.hide-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+ 5868:     display: table-cell !important; } }
+ 5869  /* xxlarge displays */
+ 5870  @media only screen and (min-width: 120.063em) {
+ 5871    .hide-for-small-only, .show-for-small-up, .hide-for-small, .hide-for-small-down, .hide-for-medium-only, .show-for-medium-up, .hide-for-medium, .hide-for-medium-down, .hide-for-large-only, .show-for-large-up, .hide-for-large, .hide-for-large-down, .hide-for-xlarge-only, .show-for-xlarge-up, .hide-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .show-for-xxlarge-down {
+ 5872:     display: inherit !important; }
+ 5873  
+ 5874    .show-for-small-only, .hide-for-small-up, .show-for-small, .show-for-small-down, .show-for-medium-only, .hide-for-medium-up, .show-for-medium, .show-for-medium-down, .show-for-large-only, .hide-for-large-up, .show-for-large, .show-for-large-down, .show-for-xlarge-only, .hide-for-xlarge-up, .show-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .hide-for-xxlarge-down {
+ 5875:     display: none !important; }
+ 5876  
+ 5877    .hidden-for-small-only, .visible-for-small-up, .hidden-for-small, .hidden-for-small-down, .hidden-for-medium-only, .visible-for-medium-up, .hidden-for-medium, .hidden-for-medium-down, .hidden-for-large-only, .visible-for-large-up, .hidden-for-large, .hidden-for-large-down, .hidden-for-xlarge-only, .visible-for-xlarge-up, .hidden-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .visible-for-xxlarge-down {
+ 5878:     position: static !important;
+ 5879      height: auto;
+ 5880      width: auto;
+ ....
+ 5883  
+ 5884    .visible-for-small-only, .hidden-for-small-up, .visible-for-small, .visible-for-small-down, .visible-for-medium-only, .hidden-for-medium-up, .visible-for-medium, .visible-for-medium-down, .visible-for-large-only, .hidden-for-large-up, .visible-for-large, .visible-for-large-down, .visible-for-xlarge-only, .hidden-for-xlarge-up, .visible-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .hidden-for-xxlarge-down {
+ 5885:     position: absolute !important;
+ 5886      height: 1px;
+ 5887      width: 1px;
+ ....
+ 5890  
+ 5891    table.hide-for-small-only, table.show-for-small-up, table.hide-for-small, table.hide-for-small-down, table.hide-for-medium-only, table.show-for-medium-up, table.hide-for-medium, table.hide-for-medium-down, table.hide-for-large-only, table.show-for-large-up, table.hide-for-large, table.hide-for-large-down, table.hide-for-xlarge-only, table.show-for-xlarge-up, table.hide-for-xlarge, table.hide-for-xlarge-down, table.show-for-xxlarge-only, table.show-for-xxlarge-up, table.show-for-xxlarge, table.show-for-xxlarge-down {
+ 5892:     display: table !important; }
+ 5893  
+ 5894    thead.hide-for-small-only, thead.show-for-small-up, thead.hide-for-small, thead.hide-for-small-down, thead.hide-for-medium-only, thead.show-for-medium-up, thead.hide-for-medium, thead.hide-for-medium-down, thead.hide-for-large-only, thead.show-for-large-up, thead.hide-for-large, thead.hide-for-large-down, thead.hide-for-xlarge-only, thead.show-for-xlarge-up, thead.hide-for-xlarge, thead.hide-for-xlarge-down, thead.show-for-xxlarge-only, thead.show-for-xxlarge-up, thead.show-for-xxlarge, thead.show-for-xxlarge-down {
+ 5895:     display: table-header-group !important; }
+ 5896  
+ 5897    tbody.hide-for-small-only, tbody.show-for-small-up, tbody.hide-for-small, tbody.hide-for-small-down, tbody.hide-for-medium-only, tbody.show-for-medium-up, tbody.hide-for-medium, tbody.hide-for-medium-down, tbody.hide-for-large-only, tbody.show-for-large-up, tbody.hide-for-large, tbody.hide-for-large-down, tbody.hide-for-xlarge-only, tbody.show-for-xlarge-up, tbody.hide-for-xlarge, tbody.hide-for-xlarge-down, tbody.show-for-xxlarge-only, tbody.show-for-xxlarge-up, tbody.show-for-xxlarge, tbody.show-for-xxlarge-down {
+ 5898:     display: table-row-group !important; }
+ 5899  
+ 5900    tr.hide-for-small-only, tr.show-for-small-up, tr.hide-for-small, tr.hide-for-small-down, tr.hide-for-medium-only, tr.show-for-medium-up, tr.hide-for-medium, tr.hide-for-medium-down, tr.hide-for-large-only, tr.show-for-large-up, tr.hide-for-large, tr.hide-for-large-down, tr.hide-for-xlarge-only, tr.show-for-xlarge-up, tr.hide-for-xlarge, tr.hide-for-xlarge-down, tr.show-for-xxlarge-only, tr.show-for-xxlarge-up, tr.show-for-xxlarge, tr.show-for-xxlarge-down {
+ ....
+ 5902  
+ 5903    th.hide-for-small-only, td.hide-for-small-only, th.show-for-small-up, td.show-for-small-up, th.hide-for-small, td.hide-for-small, th.hide-for-small-down, td.hide-for-small-down, th.hide-for-medium-only, td.hide-for-medium-only, th.show-for-medium-up, td.show-for-medium-up, th.hide-for-medium, td.hide-for-medium, th.hide-for-medium-down, td.hide-for-medium-down, th.hide-for-large-only, td.hide-for-large-only, th.show-for-large-up, td.show-for-large-up, th.hide-for-large, td.hide-for-large, th.hide-for-large-down, td.hide-for-large-down, th.hide-for-xlarge-only, td.hide-for-xlarge-only, th.show-for-xlarge-up, td.show-for-xlarge-up, th.hide-for-xlarge, td.hide-for-xlarge, th.hide-for-xlarge-down, td.hide-for-xlarge-down, th.show-for-xxlarge-only, td.show-for-xxlarge-only, th.show-for-xxlarge-up, td.show-for-xxlarge-up, th.show-for-xxlarge, td.show-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+ 5904:     display: table-cell !important; } }
+ 5905  /* Orientation targeting */
+ 5906  .show-for-landscape,
+ 5907  .hide-for-portrait {
+ 5908:   display: inherit !important; }
+ 5909  
+ 5910  .hide-for-landscape,
+ 5911  .show-for-portrait {
+ 5912:   display: none !important; }
+ 5913  
+ 5914  /* Specific visibility for tables */
+ 5915  table.hide-for-landscape, table.show-for-portrait {
+ 5916:   display: table !important; }
+ 5917  
+ 5918  thead.hide-for-landscape, thead.show-for-portrait {
+ 5919:   display: table-header-group !important; }
+ 5920  
+ 5921  tbody.hide-for-landscape, tbody.show-for-portrait {
+ 5922:   display: table-row-group !important; }
+ 5923  
+ 5924  tr.hide-for-landscape, tr.show-for-portrait {
+ 5925:   display: table-row !important; }
+ 5926  
+ 5927  td.hide-for-landscape, td.show-for-portrait,
+ 5928  th.hide-for-landscape,
+ 5929  th.show-for-portrait {
+ 5930:   display: table-cell !important; }
+ 5931  
+ 5932  @media only screen and (orientation: landscape) {
+ 5933    .show-for-landscape,
+ 5934    .hide-for-portrait {
+ 5935:     display: inherit !important; }
+ 5936  
+ 5937    .hide-for-landscape,
+ 5938    .show-for-portrait {
+ 5939:     display: none !important; }
+ 5940  
+ 5941    /* Specific visibility for tables */
+ 5942    table.show-for-landscape, table.hide-for-portrait {
+ 5943:     display: table !important; }
+ 5944  
+ 5945    thead.show-for-landscape, thead.hide-for-portrait {
+ 5946:     display: table-header-group !important; }
+ 5947  
+ 5948    tbody.show-for-landscape, tbody.hide-for-portrait {
+ 5949:     display: table-row-group !important; }
+ 5950  
+ 5951    tr.show-for-landscape, tr.hide-for-portrait {
+ 5952:     display: table-row !important; }
+ 5953  
+ 5954    td.show-for-landscape, td.hide-for-portrait,
+ 5955    th.show-for-landscape,
+ 5956    th.hide-for-portrait {
+ 5957:     display: table-cell !important; } }
+ 5958  @media only screen and (orientation: portrait) {
+ 5959    .show-for-portrait,
+ 5960    .hide-for-landscape {
+ 5961:     display: inherit !important; }
+ 5962  
+ 5963    .hide-for-portrait,
+ 5964    .show-for-landscape {
+ 5965:     display: none !important; }
+ 5966  
+ 5967    /* Specific visibility for tables */
+ 5968    table.show-for-portrait, table.hide-for-landscape {
+ 5969:     display: table !important; }
+ 5970  
+ 5971    thead.show-for-portrait, thead.hide-for-landscape {
+ 5972:     display: table-header-group !important; }
+ 5973  
+ 5974    tbody.show-for-portrait, tbody.hide-for-landscape {
+ 5975:     display: table-row-group !important; }
+ 5976  
+ 5977    tr.show-for-portrait, tr.hide-for-landscape {
+ 5978:     display: table-row !important; }
+ 5979  
+ 5980    td.show-for-portrait, td.hide-for-landscape,
+ 5981    th.show-for-portrait,
+ 5982    th.hide-for-landscape {
+ 5983:     display: table-cell !important; } }
+ 5984  /* Touch-enabled device targeting */
+ 5985  .show-for-touch {
+ 5986:   display: none !important; }
+ 5987  
+ 5988  .hide-for-touch {
+ 5989:   display: inherit !important; }
+ 5990  
+ 5991  .touch .show-for-touch {
+ 5992:   display: inherit !important; }
+ 5993  
+ 5994  .touch .hide-for-touch {
+ 5995:   display: none !important; }
+ 5996  
+ 5997  /* Specific visibility for tables */
+ 5998  table.hide-for-touch {
+ 5999:   display: table !important; }
+ 6000  
+ 6001  .touch table.show-for-touch {
+ 6002:   display: table !important; }
+ 6003  
+ 6004  thead.hide-for-touch {
+ 6005:   display: table-header-group !important; }
+ 6006  
+ 6007  .touch thead.show-for-touch {
+ 6008:   display: table-header-group !important; }
+ 6009  
+ 6010  tbody.hide-for-touch {
+ 6011:   display: table-row-group !important; }
+ 6012  
+ 6013  .touch tbody.show-for-touch {
+ 6014:   display: table-row-group !important; }
+ 6015  
+ 6016  tr.hide-for-touch {
+ 6017:   display: table-row !important; }
+ 6018  
+ 6019  .touch tr.show-for-touch {
+ 6020:   display: table-row !important; }
+ 6021  
+ 6022  td.hide-for-touch {
+ 6023:   display: table-cell !important; }
+ 6024  
+ 6025  .touch td.show-for-touch {
+ 6026:   display: table-cell !important; }
+ 6027  
+ 6028  th.hide-for-touch {
+ 6029:   display: table-cell !important; }
+ 6030  
+ 6031  .touch th.show-for-touch {
+ 6032:   display: table-cell !important; }
+ 6033  
+ 6034  /*
+ ....
+ 6039  */
+ 6040  .print-only {
+ 6041:   display: none !important; }
+ 6042  
+ 6043  @media print {
+ 6044    * {
+ 6045:     background: transparent !important;
+ 6046:     color: #000000 !important;
+ 6047      /* Black prints faster: h5bp.com/s */
+ 6048:     box-shadow: none !important;
+ 6049:     text-shadow: none !important; }
+ 6050  
+ 6051    .show-for-print {
+ ....
+ 6056  
+ 6057    table.show-for-print {
+ 6058:     display: table !important; }
+ 6059  
+ 6060    thead.show-for-print {
+ 6061:     display: table-header-group !important; }
+ 6062  
+ 6063    tbody.show-for-print {
+ 6064:     display: table-row-group !important; }
+ 6065  
+ 6066    tr.show-for-print {
+ 6067:     display: table-row !important; }
+ 6068  
+ 6069    td.show-for-print {
+ 6070:     display: table-cell !important; }
+ 6071  
+ 6072    th.show-for-print {
+ 6073:     display: table-cell !important; }
+ 6074  
+ 6075    a,
+ ....
+ 6102  
+ 6103    img {
+ 6104:     max-width: 100% !important; }
+ 6105  
+ 6106    @page {
+ ....
+ 6117  
+ 6118    .hide-on-print {
+ 6119:     display: none !important; }
+ 6120  
+ 6121    .print-only {
+ 6122:     display: block !important; }
+ 6123  
+ 6124    .hide-for-print {
+ 6125:     display: none !important; }
+ 6126  
+ 6127    .show-for-print {
+ 6128:     display: inherit !important; } }
+ 6129  /* Print visibility */
+ 6130  @media print {
+ ....
+ 6136  
+ 6137    table.show-for-print {
+ 6138:     display: table !important; }
+ 6139  
+ 6140    thead.show-for-print {
+ 6141:     display: table-header-group !important; }
+ 6142  
+ 6143    tbody.show-for-print {
+ 6144:     display: table-row-group !important; }
+ 6145  
+ 6146    tr.show-for-print {
+ 6147:     display: table-row !important; }
+ 6148  
+ 6149    td.show-for-print {
+ 6150:     display: table-cell !important; }
+ 6151  
+ 6152    th.show-for-print {
+ 6153:     display: table-cell !important; } }
+ 6154  
+ 6155  /*# sourceMappingURL=foundation.css.map */
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/foundation/css/normalize.css:
+  262  
+  263  /**
+  264:  * Address Firefox 4+ setting `line-height` on `input` using `!important` in
+  265   * the UA stylesheet.
+  266   */
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/foundation/scss/normalize.scss:
+  316  
+  317  /**
+  318:  * Address Firefox 4+ setting `line-height` on `input` using `!important` in
+  319   * the UA stylesheet.
+  320   */
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/foundation/scss/foundation/components/_accordion.scss:
+   44  @mixin accordion-navigation( $bg: $accordion-navigation-bg-color, $hover-bg: $accordion-navigation-hover-bg-color, $active-bg: $accordion-navigation-active-bg-color, $padding: $accordion-navigation-padding, $active_class: 'active',  $font-color: $accordion-navigation-font-color, $font-size: $accordion-navigation-font-size, $font-family: $accordion-navigation-font-family ){
+   45    display: block;
+   46:   margin-bottom: 0 !important;
+   47    @if type-of($active_class) != "string" {
+   48      @warn "`#{$active_class}` isn't a valid string. A valid string is needed to correctly be interpolated as a CSS class. CSS classes cannot start with a number or consist of only numbers. CSS will not be generated for the active state of this navigation component."
+   ..
+  132        .accordion-navigation, dd {
+  133          display: block;
+  134:         margin-bottom: 0 !important;
+  135          &.active > a { background: $accordion-navigation-active-bg-color; }
+  136          > a {
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/foundation/scss/foundation/components/_clearing.scss:
+  227  
+  228                img {
+  229:               cursor: $cursor-pointer-value !important;
+  230:               width: 100% !important;
+  231                }
+  232  
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/foundation/scss/foundation/components/_dropdown.scss:
+  250        &.large   { max-width: 800px; }
+  251        &.mega    {
+  252:         width:100%!important;
+  253:         max-width:100%!important;
+  254  
+  255          &.open{
+  256:           left:0!important;
+  257          }
+  258        }
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/foundation/scss/foundation/components/_forms.scss:
+  172    // Alignment options
+  173    @if $alignment == right {
+  174:     float: none !important;
+  175      text-align: right;
+  176    }
+  ...
+  322  // We use this mixin to style select elements
+  323  @mixin form-select  {
+  324:   -webkit-appearance: none !important;
+  325    border-radius: 0;
+  326    background-color: $select-bg-color;
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/foundation/scss/foundation/components/_global.scss:
+  203  // @see http://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+  204  @mixin element-invisible {
+  205:   position: absolute !important;
+  206    height: 1px;
+  207    width: 1px;
+  ...
+  214  // Turns off the element-invisible effect.
+  215  @mixin element-invisible-off {
+  216:   position: static !important;
+  217    height: auto;
+  218    width: auto;
+  ...
+  439        img,
+  440        embed,
+  441:       object { max-width: none !important;
+  442        }
+  443      }
+  444  
+  445      // Miscellaneous useful HTML classes
+  446:     .left { float: left !important; }
+  447:     .right { float: right !important; }
+  448      .clearfix { @include clearfix; }
+  449  
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/foundation/scss/foundation/components/_grid.scss:
+  147  
+  148    // If offset, calculate appropriate margins
+  149:   @if $offset { margin-#{$default-float}: grid-calc($offset, $total-columns) !important; }
+  150  
+  151  }
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/foundation/scss/foundation/components/_joyride.scss:
+   73        padding: $joyride-tip-padding;
+   74  
+   75:       .button { margin-bottom: 0 !important; }
+   76  
+   77        .joyride-prev-tip { margin-right: 10px; }
+   ..
+   91            border-top-style: solid;
+   92            border-color: $joyride-tip-bg;
+   93:           border-top-color: transparent !important;
+   94:           border-#{$default-float}-color: transparent !important;
+   95:           border-#{$opposite-direction}-color: transparent !important;
+   96            top: -($joyride-tip-nub-size*2);
+   97          }
+   98          &.bottom {
+   99            border-bottom-style: solid;
+  100:           border-color: $joyride-tip-bg !important;
+  101:           border-bottom-color: transparent !important;
+  102:           border-#{$default-float}-color: transparent !important;
+  103:           border-#{$opposite-direction}-color: transparent !important;
+  104            bottom: -($joyride-tip-nub-size*2);
+  105          }
+  ...
+  147        #{$opposite-direction}: 12px;
+  148        top: 10px;
+  149:       color: $joyride-tip-close-color !important;
+  150        text-decoration: none;
+  151        font-size: $joyride-tip-close-size;
+  152        font-weight: $joyride-tip-close-weight;
+  153:       line-height: .5 !important;
+  154  
+  155        &:hover,
+  156:       &:focus { color: $smoke !important; }
+  157      }
+  158  
+  ...
+  193          .joyride-nub {
+  194            &.bottom {
+  195:             border-color: $joyride-tip-bg !important;
+  196:             border-bottom-color: transparent !important;
+  197:             border-#{$default-float}-color: transparent !important;
+  198:             border-#{$opposite-direction}-color: transparent !important;
+  199              bottom: -($joyride-tip-nub-size*2);
+  200            }
+  201            &.right {
+  202:             border-color: $joyride-tip-bg !important;
+  203:             border-top-color: transparent !important;
+  204:             border-right-color: transparent !important; border-bottom-color: transparent !important;
+  205              top: $joyride-tip-position-offset;
+  206              left: auto;
+  ...
+  208            }
+  209            &.left {
+  210:             border-color: $joyride-tip-bg !important;
+  211:             border-top-color: transparent !important;
+  212:             border-left-color: transparent !important;
+  213:             border-bottom-color: transparent !important;
+  214              top: $joyride-tip-position-offset;
+  215              left: -($joyride-tip-nub-size*2);
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/foundation/scss/foundation/components/_orbit.scss:
+  248          color: white;
+  249          background-color: $orbit-nav-bg;
+  250:         text-indent: -9999px !important;
+  251          z-index: 10;
+  252  
+  ...
+  343      @media #{$small-only} {
+  344        .orbit-stack-on-small {
+  345:         .orbit-slides-container {height: auto !important;}
+  346          .orbit-slides-container > * {
+  347            position: relative;
+  348:           margin:0 !important;
+  349:           opacity:1 !important;
+  350          }
+  351  
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/foundation/scss/foundation/components/_reveal.scss:
+  195          height: 100vh;
+  196          min-height:100vh;
+  197:         max-width: none !important;
+  198:         margin-left: 0 !important;
+  199        }
+  200        
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/foundation/scss/foundation/components/_tabs.scss:
+   30      .tabs {
+   31        @include clearfix;
+   32:       margin-bottom: 0 !important;
+   33        margin-left: 0;
+   34        dd, .tab-title {
+   35          position: relative;
+   36:         margin-bottom: 0 !important;
+   37          list-style: none;
+   38          float: $default-float;
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/foundation/scss/foundation/components/_tooltips.scss:
+   49  
+   50        &.tip-left,
+   51:       &.tip-right { float: none !important; }
+   52      }
+   53  
+   ..
+   94  
+   95        &.opened {
+   96:         color: $has-tip-font-color-hover !important;
+   97:         border-bottom: $has-tip-border-bottom-hover !important;
+   98        }
+   99      }
+  ...
+  119  
+  120          &.tip-left,
+  121:         &.tip-right { float: none !important; }
+  122  
+  123          &.tip-left>.nub {
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/foundation/scss/foundation/components/_top-bar.scss:
+  101    display: block;
+  102    @include element-invisible-off();
+  103:   position: absolute !important; // Reset the position from static to absolute
+  104  }
+  105  
+  ...
+  490        .top-bar-section {
+  491          @include single-transition(none,0,0);
+  492:         #{$default-float}: 0 !important;
+  493  
+  494          ul {
+  495            width: auto;
+  496:           height: auto !important;
+  497            display: inline;
+  498  
+  ...
+  543            @if($topbar-arrows){
+  544              & > a {
+  545:               padding-#{$opposite-direction}: $topbar-link-padding + $topbar-link-dropdown-padding !important;
+  546                &:after {
+  547                  @include css-triangle($topbar-dropdown-toggle-size, rgba($topbar-dropdown-toggle-color, $topbar-dropdown-toggle-alpha), top);
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/foundation/scss/foundation/components/_type.scss:
+  153  // Generates text align and justify classes
+  154  @mixin align-classes{
+  155:   .text-left    { text-align: left !important; }
+  156:   .text-right   { text-align: right !important; }
+  157:   .text-center  { text-align: center !important; }
+  158:   .text-justify { text-align: justify !important; }
+  159  
+  160    @for $i from 1 through length($align-class-names) {
+  161      @media #{(nth($align-class-breakpoints, $i))} {
+  162:       .#{(nth($align-class-names, $i))}-text-left { text-align: left !important; }
+  163:       .#{(nth($align-class-names, $i))}-text-right   { text-align: right !important; }
+  164:       .#{(nth($align-class-names, $i))}-text-center  { text-align: center !important; }
+  165:       .#{(nth($align-class-names, $i))}-text-justify { text-align: justify !important; }
+  166      }
+  167    }
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/foundation/scss/foundation/components/_visibility.scss:
+  243      @media #{nth($visibility-breakpoint-queries, index($visibility-breakpoint-sizes, $current-visibility-breakpoint))} {
+  244        #{$visibility-inherit-list} {
+  245:         display: inherit !important;
+  246        }
+  247        #{$visibility-none-list} {
+  248:         display: none !important;
+  249        }
+  250        @if $include-accessibility-classes != false {
+  ...
+  258        @if $include-table-visibility-classes != false {
+  259          #{$visibility-table-list} {
+  260:           display: table !important;
+  261          }
+  262          #{$visibility-table-header-group-list} {
+  263:           display: table-header-group !important;
+  264          }
+  265          #{$visibility-table-row-group-list} {
+  266:           display: table-row-group !important;
+  267          }
+  268          #{$visibility-table-row-list} {
+  ...
+  270          }
+  271          #{$visibility-table-cell-list} {
+  272:           display: table-cell !important;
+  273          }
+  274        }
+  ...
+  284    /* Orientation targeting */
+  285    .show-for-landscape,
+  286:   .hide-for-portrait { display: inherit !important; }
+  287    .hide-for-landscape,
+  288:   .show-for-portrait { display: none !important; }
+  289  
+  290    /* Specific visibility for tables */
+  291    table {
+  292      &.hide-for-landscape,
+  293:     &.show-for-portrait { display: table !important; }
+  294    }
+  295    thead {
+  296      &.hide-for-landscape,
+  297:     &.show-for-portrait { display: table-header-group !important; }
+  298    }
+  299    tbody {
+  300      &.hide-for-landscape,
+  301:     &.show-for-portrait { display: table-row-group !important; }
+  302    }
+  303    tr {
+  304      &.hide-for-landscape,
+  305:     &.show-for-portrait { display: table-row !important; }
+  306    }
+  307    td,
+  308    th {
+  309      &.hide-for-landscape,
+  310:     &.show-for-portrait { display: table-cell !important; }
+  311    }
+  312  
+  313    @media #{$landscape} {
+  314      .show-for-landscape,
+  315:     .hide-for-portrait { display: inherit !important; }
+  316      .hide-for-landscape,
+  317:     .show-for-portrait { display: none !important; }
+  318  
+  319      /* Specific visibility for tables */
+  320      table {
+  321        &.show-for-landscape,
+  322:       &.hide-for-portrait { display: table !important; }
+  323      }
+  324      thead {
+  325        &.show-for-landscape,
+  326:       &.hide-for-portrait { display: table-header-group !important; }
+  327      }
+  328      tbody {
+  329        &.show-for-landscape,
+  330:       &.hide-for-portrait { display: table-row-group !important; }
+  331      }
+  332      tr {
+  333        &.show-for-landscape,
+  334:       &.hide-for-portrait { display: table-row !important; }
+  335      }
+  336      td,
+  337      th {
+  338        &.show-for-landscape,
+  339:       &.hide-for-portrait { display: table-cell !important; }
+  340      }
+  341    }
+  ...
+  343    @media #{$portrait} {
+  344      .show-for-portrait,
+  345:     .hide-for-landscape { display: inherit !important; }
+  346      .hide-for-portrait,
+  347:     .show-for-landscape { display: none !important; }
+  348  
+  349      /* Specific visibility for tables */
+  350      table {
+  351        &.show-for-portrait,
+  352:       &.hide-for-landscape { display: table !important; }
+  353      }
+  354      thead {
+  355        &.show-for-portrait,
+  356:       &.hide-for-landscape { display: table-header-group !important; }
+  357      }
+  358      tbody {
+  359        &.show-for-portrait,
+  360:       &.hide-for-landscape { display: table-row-group !important; }
+  361      }
+  362      tr {
+  363        &.show-for-portrait,
+  364:       &.hide-for-landscape { display: table-row !important; }
+  365      }
+  366      td,
+  367      th {
+  368        &.show-for-portrait,
+  369:       &.hide-for-landscape { display: table-cell !important; }
+  370      }
+  371    }
+  372  
+  373    /* Touch-enabled device targeting */
+  374:   .show-for-touch { display: none !important; }
+  375:   .hide-for-touch { display: inherit !important; }
+  376:   .touch .show-for-touch { display: inherit !important; }
+  377:   .touch .hide-for-touch { display: none !important; }
+  378  
+  379    /* Specific visibility for tables */
+  380:   table.hide-for-touch { display: table !important; }
+  381:   .touch table.show-for-touch { display: table !important; }
+  382:   thead.hide-for-touch { display: table-header-group !important; }
+  383:   .touch thead.show-for-touch { display: table-header-group !important; }
+  384:   tbody.hide-for-touch { display: table-row-group !important; }
+  385:   .touch tbody.show-for-touch { display: table-row-group !important; }
+  386:   tr.hide-for-touch { display: table-row !important; }
+  387:   .touch tr.show-for-touch { display: table-row !important; }
+  388:   td.hide-for-touch { display: table-cell !important; }
+  389:   .touch td.show-for-touch { display: table-cell !important; }
+  390:   th.hide-for-touch { display: table-cell !important; }
+  391:   .touch th.show-for-touch { display: table-cell !important; }
+  392  
+  393    // Only include these styles if you want them.
+  ...
+  399         * Credit to Paul Irish and HTML5 Boilerplate (html5boilerplate.com)
+  400        */
+  401:       .print-only { display: none !important; }
+  402        @media print {
+  403          * {
+  404:           background: transparent !important;
+  405:           color: $black !important; /* Black prints faster: h5bp.com/s */
+  406:           box-shadow: none !important;
+  407:           text-shadow: none !important;
+  408          }
+  409          .show-for-print { display: block; }
+  410          .hide-for-print { display: none; }
+  411  
+  412:         table.show-for-print { display: table !important; }
+  413:         thead.show-for-print { display: table-header-group !important; }
+  414:         tbody.show-for-print { display: table-row-group !important; }
+  415:         tr.show-for-print { display: table-row !important; }
+  416:         td.show-for-print { display: table-cell !important; }
+  417:         th.show-for-print { display: table-cell !important; }
+  418  
+  419          a,
+  ...
+  439          img { page-break-inside: avoid; }
+  440  
+  441:         img { max-width: 100% !important; }
+  442  
+  443          @page { margin: 0.5cm; }
+  ...
+  453          h3 { page-break-after: avoid; }
+  454  
+  455:         .hide-on-print { display: none !important; }
+  456:         .print-only { display: block !important; }
+  457:         .hide-for-print { display: none !important; }
+  458:         .show-for-print { display: inherit !important; }
+  459        }
+  460      }
+  ...
+  465        .hide-for-print { display: none; }
+  466  
+  467:       table.show-for-print { display: table !important; }
+  468:       thead.show-for-print { display: table-header-group !important; }
+  469:       tbody.show-for-print { display: table-row-group !important; }
+  470:       tr.show-for-print { display: table-row !important; }
+  471:       td.show-for-print { display: table-cell !important; }
+  472:       th.show-for-print { display: table-cell !important; }
+  473    }
+  474  }
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/modernizr/test/basic.html:
+   13       tbody tr:nth-child(even) td, tbody tr:nth-child(even) th {  border: 1px solid #ccc; border-left: 0; border-right: 0;}
+   14       table td:nth-child(even), table th:nth-child(even) { background: #e6e6e6;}
+   15:      table tbody tr:hover td, table tbody tr:hover th { background: #e1e100!important;}
+   16:      td.wrong { background:red!important;}
+   17       #html5section { visibility: hidden; }
+   18       h1 label { display:none;}
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/modernizr/test/index.html:
+   13       tbody tr:nth-child(even) td, tbody tr:nth-child(even) th {  border: 1px solid #ccc; border-left: 0; border-right: 0;}
+   14       table td:nth-child(even), table th:nth-child(even) { background: #e6e6e6;}
+   15:      table tbody tr:hover td, table tbody tr:hover th { background: #e1e100!important;}
+   16:      td.wrong { background:red!important;}
+   17       #html5section { visibility: hidden; }
+   18       h1 label { display:none;}
+
+/Users/calexity/Projects/helloproto/helloproto/bower_components/modernizr/test/js/basic.html:
+   13       tbody tr:nth-child(even) td, tbody tr:nth-child(even) th {  border: 1px solid #ccc; border-left: 0; border-right: 0;}
+   14       table td:nth-child(even), table th:nth-child(even) { background: #e6e6e6;}
+   15:      table tbody tr:hover td, table tbody tr:hover th { background: #e1e100!important;}
+   16:      td.wrong { background:red!important;}
+   17       #html5section { visibility: hidden; }
+   18       h1 label { display:none;}
+
+/Users/calexity/Projects/helloproto/helloproto/stylesheets/app.css:
+  120  .map_canvas embed,
+  121  .map_canvas object {
+  122:   max-width: none !important;
+  123  }
+  124  
+  125  /* line 446, ../bower_components/foundation/scss/foundation/components/_global.scss */
+  126  .left {
+  127:   float: left !important;
+  128  }
+  129  
+  130  /* line 447, ../bower_components/foundation/scss/foundation/components/_global.scss */
+  131  .right {
+  132:   float: right !important;
+  133  }
+  134  
+  ...
+  498    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  499    .small-offset-0 {
+  500:     margin-left: 0% !important;
+  501    }
+  502  
+  503    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  504    .small-offset-1 {
+  505:     margin-left: 8.33333% !important;
+  506    }
+  507  
+  508    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  509    .small-offset-2 {
+  510:     margin-left: 16.66667% !important;
+  511    }
+  512  
+  513    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  514    .small-offset-3 {
+  515:     margin-left: 25% !important;
+  516    }
+  517  
+  518    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  519    .small-offset-4 {
+  520:     margin-left: 33.33333% !important;
+  521    }
+  522  
+  523    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  524    .small-offset-5 {
+  525:     margin-left: 41.66667% !important;
+  526    }
+  527  
+  528    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  529    .small-offset-6 {
+  530:     margin-left: 50% !important;
+  531    }
+  532  
+  533    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  534    .small-offset-7 {
+  535:     margin-left: 58.33333% !important;
+  536    }
+  537  
+  538    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  539    .small-offset-8 {
+  540:     margin-left: 66.66667% !important;
+  541    }
+  542  
+  543    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  544    .small-offset-9 {
+  545:     margin-left: 75% !important;
+  546    }
+  547  
+  548    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  549    .small-offset-10 {
+  550:     margin-left: 83.33333% !important;
+  551    }
+  552  
+  553    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  554    .small-offset-11 {
+  555:     margin-left: 91.66667% !important;
+  556    }
+  557  
+  ...
+  858    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  859    .medium-offset-0 {
+  860:     margin-left: 0% !important;
+  861    }
+  862  
+  863    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  864    .medium-offset-1 {
+  865:     margin-left: 8.33333% !important;
+  866    }
+  867  
+  868    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  869    .medium-offset-2 {
+  870:     margin-left: 16.66667% !important;
+  871    }
+  872  
+  873    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  874    .medium-offset-3 {
+  875:     margin-left: 25% !important;
+  876    }
+  877  
+  878    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  879    .medium-offset-4 {
+  880:     margin-left: 33.33333% !important;
+  881    }
+  882  
+  883    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  884    .medium-offset-5 {
+  885:     margin-left: 41.66667% !important;
+  886    }
+  887  
+  888    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  889    .medium-offset-6 {
+  890:     margin-left: 50% !important;
+  891    }
+  892  
+  893    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  894    .medium-offset-7 {
+  895:     margin-left: 58.33333% !important;
+  896    }
+  897  
+  898    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  899    .medium-offset-8 {
+  900:     margin-left: 66.66667% !important;
+  901    }
+  902  
+  903    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  904    .medium-offset-9 {
+  905:     margin-left: 75% !important;
+  906    }
+  907  
+  908    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  909    .medium-offset-10 {
+  910:     margin-left: 83.33333% !important;
+  911    }
+  912  
+  913    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+  914    .medium-offset-11 {
+  915:     margin-left: 91.66667% !important;
+  916    }
+  917  
+  ...
+ 1386    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+ 1387    .large-offset-0 {
+ 1388:     margin-left: 0% !important;
+ 1389    }
+ 1390  
+ 1391    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+ 1392    .large-offset-1 {
+ 1393:     margin-left: 8.33333% !important;
+ 1394    }
+ 1395  
+ 1396    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+ 1397    .large-offset-2 {
+ 1398:     margin-left: 16.66667% !important;
+ 1399    }
+ 1400  
+ 1401    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+ 1402    .large-offset-3 {
+ 1403:     margin-left: 25% !important;
+ 1404    }
+ 1405  
+ 1406    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+ 1407    .large-offset-4 {
+ 1408:     margin-left: 33.33333% !important;
+ 1409    }
+ 1410  
+ 1411    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+ 1412    .large-offset-5 {
+ 1413:     margin-left: 41.66667% !important;
+ 1414    }
+ 1415  
+ 1416    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+ 1417    .large-offset-6 {
+ 1418:     margin-left: 50% !important;
+ 1419    }
+ 1420  
+ 1421    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+ 1422    .large-offset-7 {
+ 1423:     margin-left: 58.33333% !important;
+ 1424    }
+ 1425  
+ 1426    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+ 1427    .large-offset-8 {
+ 1428:     margin-left: 66.66667% !important;
+ 1429    }
+ 1430  
+ 1431    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+ 1432    .large-offset-9 {
+ 1433:     margin-left: 75% !important;
+ 1434    }
+ 1435  
+ 1436    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+ 1437    .large-offset-10 {
+ 1438:     margin-left: 83.33333% !important;
+ 1439    }
+ 1440  
+ 1441    /* line 176, ../bower_components/foundation/scss/foundation/components/_grid.scss */
+ 1442    .large-offset-11 {
+ 1443:     margin-left: 91.66667% !important;
+ 1444    }
+ 1445  
+ ....
+ 1690  .accordion .accordion-navigation, .accordion dd {
+ 1691    display: block;
+ 1692:   margin-bottom: 0 !important;
+ 1693  }
+ 1694  /* line 135, ../bower_components/foundation/scss/foundation/components/_accordion.scss */
+ ....
+ 3512    /* line 228, ../bower_components/foundation/scss/foundation/components/_clearing.scss */
+ 3513    .clearing-assembled .clearing-container .carousel > ul li img {
+ 3514:     cursor: pointer !important;
+ 3515:     width: 100% !important;
+ 3516    }
+ 3517    /* line 233, ../bower_components/foundation/scss/foundation/components/_clearing.scss */
+ ....
+ 3835  /* line 251, ../bower_components/foundation/scss/foundation/components/_dropdown.scss */
+ 3836  .f-dropdown.mega {
+ 3837:   width: 100% !important;
+ 3838:   max-width: 100% !important;
+ 3839  }
+ 3840  /* line 255, ../bower_components/foundation/scss/foundation/components/_dropdown.scss */
+ 3841  .f-dropdown.mega.open {
+ 3842:   left: 0 !important;
+ 3843  }
+ 3844  
+ ....
+ 4000  /* line 386, ../bower_components/foundation/scss/foundation/components/_forms.scss */
+ 4001  label.right {
+ 4002:   float: none !important;
+ 4003    text-align: right;
+ 4004  }
+ ....
+ 4249  /* line 474, ../bower_components/foundation/scss/foundation/components/_forms.scss */
+ 4250  select {
+ 4251:   -webkit-appearance: none !important;
+ 4252    border-radius: 0;
+ 4253    background-color: #FAFAFA;
+ ....
+ 4767  /* line 75, ../bower_components/foundation/scss/foundation/components/_joyride.scss */
+ 4768  .joyride-content-wrapper .button {
+ 4769:   margin-bottom: 0 !important;
+ 4770  }
+ 4771  /* line 77, ../bower_components/foundation/scss/foundation/components/_joyride.scss */
+ ....
+ 4788    border-top-style: solid;
+ 4789    border-color: #333333;
+ 4790:   border-top-color: transparent !important;
+ 4791:   border-left-color: transparent !important;
+ 4792:   border-right-color: transparent !important;
+ 4793    top: -20px;
+ 4794  }
+ ....
+ 4796  .joyride-tip-guide .joyride-nub.bottom {
+ 4797    border-bottom-style: solid;
+ 4798:   border-color: #333333 !important;
+ 4799:   border-bottom-color: transparent !important;
+ 4800:   border-left-color: transparent !important;
+ 4801:   border-right-color: transparent !important;
+ 4802    bottom: -20px;
+ 4803  }
+ ....
+ 4855    right: 12px;
+ 4856    top: 10px;
+ 4857:   color: #777777 !important;
+ 4858    text-decoration: none;
+ 4859    font-size: 24px;
+ 4860    font-weight: normal;
+ 4861:   line-height: .5 !important;
+ 4862  }
+ 4863  /* line 155, ../bower_components/foundation/scss/foundation/components/_joyride.scss */
+ 4864  .joyride-close-tip:hover, .joyride-close-tip:focus {
+ 4865:   color: #EEEEEE !important;
+ 4866  }
+ 4867  
+ ....
+ 4908    /* line 194, ../bower_components/foundation/scss/foundation/components/_joyride.scss */
+ 4909    .joyride-tip-guide .joyride-nub.bottom {
+ 4910:     border-color: #333333 !important;
+ 4911:     border-bottom-color: transparent !important;
+ 4912:     border-left-color: transparent !important;
+ 4913:     border-right-color: transparent !important;
+ 4914      bottom: -20px;
+ 4915    }
+ 4916    /* line 201, ../bower_components/foundation/scss/foundation/components/_joyride.scss */
+ 4917    .joyride-tip-guide .joyride-nub.right {
+ 4918:     border-color: #333333 !important;
+ 4919:     border-top-color: transparent !important;
+ 4920:     border-right-color: transparent !important;
+ 4921:     border-bottom-color: transparent !important;
+ 4922      top: 22px;
+ 4923      left: auto;
+ ....
+ 4926    /* line 209, ../bower_components/foundation/scss/foundation/components/_joyride.scss */
+ 4927    .joyride-tip-guide .joyride-nub.left {
+ 4928:     border-color: #333333 !important;
+ 4929:     border-top-color: transparent !important;
+ 4930:     border-left-color: transparent !important;
+ 4931:     border-bottom-color: transparent !important;
+ 4932      top: 22px;
+ 4933      left: -20px;
+ ....
+ 5223    color: white;
+ 5224    background-color: transparent;
+ 5225:   text-indent: -9999px !important;
+ 5226    z-index: 10;
+ 5227  }
+ ....
+ 5332    /* line 345, ../bower_components/foundation/scss/foundation/components/_orbit.scss */
+ 5333    .orbit-stack-on-small .orbit-slides-container {
+ 5334:     height: auto !important;
+ 5335    }
+ 5336    /* line 346, ../bower_components/foundation/scss/foundation/components/_orbit.scss */
+ 5337    .orbit-stack-on-small .orbit-slides-container > * {
+ 5338      position: relative;
+ 5339:     margin: 0 !important;
+ 5340:     opacity: 1 !important;
+ 5341    }
+ 5342    /* line 352, ../bower_components/foundation/scss/foundation/components/_orbit.scss */
+ ....
+ 5854    height: 100vh;
+ 5855    min-height: 100vh;
+ 5856:   max-width: none !important;
+ 5857:   margin-left: 0 !important;
+ 5858  }
+ 5859  @media only screen and (min-width: 40.063em) {
+ ....
+ 6353  /* line 30, ../bower_components/foundation/scss/foundation/components/_tabs.scss */
+ 6354  .tabs {
+ 6355:   margin-bottom: 0 !important;
+ 6356    margin-left: 0;
+ 6357  }
+ ....
+ 6368  .tabs dd, .tabs .tab-title {
+ 6369    position: relative;
+ 6370:   margin-bottom: 0 !important;
+ 6371    list-style: none;
+ 6372    float: left;
+ ....
+ 6513  /* line 50, ../bower_components/foundation/scss/foundation/components/_tooltips.scss */
+ 6514  .has-tip.tip-left, .has-tip.tip-right {
+ 6515:   float: none !important;
+ 6516  }
+ 6517  
+ ....
+ 6562  /* line 95, ../bower_components/foundation/scss/foundation/components/_tooltips.scss */
+ 6563  .tooltip.opened {
+ 6564:   color: #008CBA !important;
+ 6565:   border-bottom: dotted 1px #003f54 !important;
+ 6566  }
+ 6567  
+ ....
+ 6588    /* line 120, ../bower_components/foundation/scss/foundation/components/_tooltips.scss */
+ 6589    .tooltip.tip-left, .tooltip.tip-right {
+ 6590:     float: none !important;
+ 6591    }
+ 6592    /* line 123, ../bower_components/foundation/scss/foundation/components/_tooltips.scss */
+ ....
+ 7017  .top-bar-section .has-dropdown.moved > .dropdown {
+ 7018    display: block;
+ 7019:   position: static !important;
+ 7020    height: auto;
+ 7021    width: auto;
+ 7022    overflow: visible;
+ 7023    clip: auto;
+ 7024:   position: absolute !important;
+ 7025    width: 100%;
+ 7026  }
+ ....
+ 7037    z-index: 99;
+ 7038    display: block;
+ 7039:   position: absolute !important;
+ 7040    height: 1px;
+ 7041    width: 1px;
+ ....
+ 7151    .top-bar-section {
+ 7152      transition: none 0 0;
+ 7153:     left: 0 !important;
+ 7154    }
+ 7155    /* line 494, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
+ 7156    .top-bar-section ul {
+ 7157      width: auto;
+ 7158:     height: auto !important;
+ 7159      display: inline;
+ 7160    }
+ ....
+ 7198    /* line 544, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
+ 7199    .top-bar-section .has-dropdown > a {
+ 7200:     padding-right: 2.1875rem !important;
+ 7201    }
+ 7202    /* line 546, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
+ ....
+ 7219    .top-bar-section .has-dropdown.moved > .dropdown {
+ 7220      display: block;
+ 7221:     position: absolute !important;
+ 7222      height: 1px;
+ 7223      width: 1px;
+ ....
+ 7228    .top-bar-section .has-dropdown.hover > .dropdown, .top-bar-section .has-dropdown.not-click:hover > .dropdown {
+ 7229      display: block;
+ 7230:     position: static !important;
+ 7231      height: auto;
+ 7232      width: auto;
+ 7233      overflow: visible;
+ 7234      clip: auto;
+ 7235:     position: absolute !important;
+ 7236    }
+ 7237    /* line 565, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
+ 7238    .top-bar-section .has-dropdown > a:focus + .dropdown {
+ 7239      display: block;
+ 7240:     position: static !important;
+ 7241      height: auto;
+ 7242      width: auto;
+ 7243      overflow: visible;
+ 7244      clip: auto;
+ 7245:     position: absolute !important;
+ 7246    }
+ 7247    /* line 572, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
+ ....
+ 7338    .no-js .top-bar-section .has-dropdown:hover > .dropdown {
+ 7339      display: block;
+ 7340:     position: static !important;
+ 7341      height: auto;
+ 7342      width: auto;
+ 7343      overflow: visible;
+ 7344      clip: auto;
+ 7345:     position: absolute !important;
+ 7346    }
+ 7347    /* line 689, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
+ 7348    .no-js .top-bar-section .has-dropdown > a:focus + .dropdown {
+ 7349      display: block;
+ 7350:     position: static !important;
+ 7351      height: auto;
+ 7352      width: auto;
+ 7353      overflow: visible;
+ 7354      clip: auto;
+ 7355:     position: absolute !important;
+ 7356    }
+ 7357  }
+ 7358  /* line 155, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7359  .text-left {
+ 7360:   text-align: left !important;
+ 7361  }
+ 7362  
+ 7363  /* line 156, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7364  .text-right {
+ 7365:   text-align: right !important;
+ 7366  }
+ 7367  
+ 7368  /* line 157, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7369  .text-center {
+ 7370:   text-align: center !important;
+ 7371  }
+ 7372  
+ 7373  /* line 158, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7374  .text-justify {
+ 7375:   text-align: justify !important;
+ 7376  }
+ 7377  
+ ....
+ 7379    /* line 162, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7380    .small-only-text-left {
+ 7381:     text-align: left !important;
+ 7382    }
+ 7383  
+ 7384    /* line 163, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7385    .small-only-text-right {
+ 7386:     text-align: right !important;
+ 7387    }
+ 7388  
+ 7389    /* line 164, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7390    .small-only-text-center {
+ 7391:     text-align: center !important;
+ 7392    }
+ 7393  
+ 7394    /* line 165, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7395    .small-only-text-justify {
+ 7396:     text-align: justify !important;
+ 7397    }
+ 7398  }
+ ....
+ 7400    /* line 162, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7401    .small-text-left {
+ 7402:     text-align: left !important;
+ 7403    }
+ 7404  
+ 7405    /* line 163, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7406    .small-text-right {
+ 7407:     text-align: right !important;
+ 7408    }
+ 7409  
+ 7410    /* line 164, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7411    .small-text-center {
+ 7412:     text-align: center !important;
+ 7413    }
+ 7414  
+ 7415    /* line 165, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7416    .small-text-justify {
+ 7417:     text-align: justify !important;
+ 7418    }
+ 7419  }
+ ....
+ 7421    /* line 162, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7422    .medium-only-text-left {
+ 7423:     text-align: left !important;
+ 7424    }
+ 7425  
+ 7426    /* line 163, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7427    .medium-only-text-right {
+ 7428:     text-align: right !important;
+ 7429    }
+ 7430  
+ 7431    /* line 164, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7432    .medium-only-text-center {
+ 7433:     text-align: center !important;
+ 7434    }
+ 7435  
+ 7436    /* line 165, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7437    .medium-only-text-justify {
+ 7438:     text-align: justify !important;
+ 7439    }
+ 7440  }
+ ....
+ 7442    /* line 162, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7443    .medium-text-left {
+ 7444:     text-align: left !important;
+ 7445    }
+ 7446  
+ 7447    /* line 163, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7448    .medium-text-right {
+ 7449:     text-align: right !important;
+ 7450    }
+ 7451  
+ 7452    /* line 164, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7453    .medium-text-center {
+ 7454:     text-align: center !important;
+ 7455    }
+ 7456  
+ 7457    /* line 165, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7458    .medium-text-justify {
+ 7459:     text-align: justify !important;
+ 7460    }
+ 7461  }
+ ....
+ 7463    /* line 162, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7464    .large-only-text-left {
+ 7465:     text-align: left !important;
+ 7466    }
+ 7467  
+ 7468    /* line 163, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7469    .large-only-text-right {
+ 7470:     text-align: right !important;
+ 7471    }
+ 7472  
+ 7473    /* line 164, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7474    .large-only-text-center {
+ 7475:     text-align: center !important;
+ 7476    }
+ 7477  
+ 7478    /* line 165, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7479    .large-only-text-justify {
+ 7480:     text-align: justify !important;
+ 7481    }
+ 7482  }
+ ....
+ 7484    /* line 162, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7485    .large-text-left {
+ 7486:     text-align: left !important;
+ 7487    }
+ 7488  
+ 7489    /* line 163, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7490    .large-text-right {
+ 7491:     text-align: right !important;
+ 7492    }
+ 7493  
+ 7494    /* line 164, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7495    .large-text-center {
+ 7496:     text-align: center !important;
+ 7497    }
+ 7498  
+ 7499    /* line 165, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7500    .large-text-justify {
+ 7501:     text-align: justify !important;
+ 7502    }
+ 7503  }
+ ....
+ 7505    /* line 162, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7506    .xlarge-only-text-left {
+ 7507:     text-align: left !important;
+ 7508    }
+ 7509  
+ 7510    /* line 163, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7511    .xlarge-only-text-right {
+ 7512:     text-align: right !important;
+ 7513    }
+ 7514  
+ 7515    /* line 164, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7516    .xlarge-only-text-center {
+ 7517:     text-align: center !important;
+ 7518    }
+ 7519  
+ 7520    /* line 165, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7521    .xlarge-only-text-justify {
+ 7522:     text-align: justify !important;
+ 7523    }
+ 7524  }
+ ....
+ 7526    /* line 162, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7527    .xlarge-text-left {
+ 7528:     text-align: left !important;
+ 7529    }
+ 7530  
+ 7531    /* line 163, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7532    .xlarge-text-right {
+ 7533:     text-align: right !important;
+ 7534    }
+ 7535  
+ 7536    /* line 164, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7537    .xlarge-text-center {
+ 7538:     text-align: center !important;
+ 7539    }
+ 7540  
+ 7541    /* line 165, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7542    .xlarge-text-justify {
+ 7543:     text-align: justify !important;
+ 7544    }
+ 7545  }
+ ....
+ 7547    /* line 162, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7548    .xxlarge-only-text-left {
+ 7549:     text-align: left !important;
+ 7550    }
+ 7551  
+ 7552    /* line 163, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7553    .xxlarge-only-text-right {
+ 7554:     text-align: right !important;
+ 7555    }
+ 7556  
+ 7557    /* line 164, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7558    .xxlarge-only-text-center {
+ 7559:     text-align: center !important;
+ 7560    }
+ 7561  
+ 7562    /* line 165, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7563    .xxlarge-only-text-justify {
+ 7564:     text-align: justify !important;
+ 7565    }
+ 7566  }
+ ....
+ 7568    /* line 162, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7569    .xxlarge-text-left {
+ 7570:     text-align: left !important;
+ 7571    }
+ 7572  
+ 7573    /* line 163, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7574    .xxlarge-text-right {
+ 7575:     text-align: right !important;
+ 7576    }
+ 7577  
+ 7578    /* line 164, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7579    .xxlarge-text-center {
+ 7580:     text-align: center !important;
+ 7581    }
+ 7582  
+ 7583    /* line 165, ../bower_components/foundation/scss/foundation/components/_type.scss */
+ 7584    .xxlarge-text-justify {
+ 7585:     text-align: justify !important;
+ 7586    }
+ 7587  }
+ ....
+ 8495    /* line 244, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8496    .show-for-small-only, .show-for-small-up, .show-for-small, .show-for-small-down, .hide-for-medium-only, .hide-for-medium-up, .hide-for-medium, .show-for-medium-down, .hide-for-large-only, .hide-for-large-up, .hide-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {
+ 8497:     display: inherit !important;
+ 8498    }
+ 8499  
+ 8500    /* line 247, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8501    .hide-for-small-only, .hide-for-small-up, .hide-for-small, .hide-for-small-down, .show-for-medium-only, .show-for-medium-up, .show-for-medium, .hide-for-medium-down, .show-for-large-only, .show-for-large-up, .show-for-large, .hide-for-large-down, .show-for-xlarge-only, .show-for-xlarge-up, .show-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .hide-for-xxlarge-down {
+ 8502:     display: none !important;
+ 8503    }
+ 8504  
+ 8505    /* line 251, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8506    .visible-for-small-only, .visible-for-small-up, .visible-for-small, .visible-for-small-down, .hidden-for-medium-only, .hidden-for-medium-up, .hidden-for-medium, .visible-for-medium-down, .hidden-for-large-only, .hidden-for-large-up, .hidden-for-large, .visible-for-large-down, .hidden-for-xlarge-only, .hidden-for-xlarge-up, .hidden-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .visible-for-xxlarge-down {
+ 8507:     position: static !important;
+ 8508      height: auto;
+ 8509      width: auto;
+ ....
+ 8514    /* line 254, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8515    .hidden-for-small-only, .hidden-for-small-up, .hidden-for-small, .hidden-for-small-down, .visible-for-medium-only, .visible-for-medium-up, .visible-for-medium, .hidden-for-medium-down, .visible-for-large-only, .visible-for-large-up, .visible-for-large, .hidden-for-large-down, .visible-for-xlarge-only, .visible-for-xlarge-up, .visible-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .hidden-for-xxlarge-down {
+ 8516:     position: absolute !important;
+ 8517      height: 1px;
+ 8518      width: 1px;
+ ....
+ 8523    /* line 259, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8524    table.show-for-small-only, table.show-for-small-up, table.show-for-small, table.show-for-small-down, table.hide-for-medium-only, table.hide-for-medium-up, table.hide-for-medium, table.show-for-medium-down, table.hide-for-large-only, table.hide-for-large-up, table.hide-for-large, table.show-for-large-down, table.hide-for-xlarge-only, table.hide-for-xlarge-up, table.hide-for-xlarge, table.show-for-xlarge-down, table.hide-for-xxlarge-only, table.hide-for-xxlarge-up, table.hide-for-xxlarge, table.show-for-xxlarge-down {
+ 8525:     display: table !important;
+ 8526    }
+ 8527  
+ 8528    /* line 262, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8529    thead.show-for-small-only, thead.show-for-small-up, thead.show-for-small, thead.show-for-small-down, thead.hide-for-medium-only, thead.hide-for-medium-up, thead.hide-for-medium, thead.show-for-medium-down, thead.hide-for-large-only, thead.hide-for-large-up, thead.hide-for-large, thead.show-for-large-down, thead.hide-for-xlarge-only, thead.hide-for-xlarge-up, thead.hide-for-xlarge, thead.show-for-xlarge-down, thead.hide-for-xxlarge-only, thead.hide-for-xxlarge-up, thead.hide-for-xxlarge, thead.show-for-xxlarge-down {
+ 8530:     display: table-header-group !important;
+ 8531    }
+ 8532  
+ 8533    /* line 265, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8534    tbody.show-for-small-only, tbody.show-for-small-up, tbody.show-for-small, tbody.show-for-small-down, tbody.hide-for-medium-only, tbody.hide-for-medium-up, tbody.hide-for-medium, tbody.show-for-medium-down, tbody.hide-for-large-only, tbody.hide-for-large-up, tbody.hide-for-large, tbody.show-for-large-down, tbody.hide-for-xlarge-only, tbody.hide-for-xlarge-up, tbody.hide-for-xlarge, tbody.show-for-xlarge-down, tbody.hide-for-xxlarge-only, tbody.hide-for-xxlarge-up, tbody.hide-for-xxlarge, tbody.show-for-xxlarge-down {
+ 8535:     display: table-row-group !important;
+ 8536    }
+ 8537  
+ ....
+ 8543    /* line 271, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8544    th.show-for-small-only, td.show-for-small-only, th.show-for-small-up, td.show-for-small-up, th.show-for-small, td.show-for-small, th.show-for-small-down, td.show-for-small-down, th.hide-for-medium-only, td.hide-for-medium-only, th.hide-for-medium-up, td.hide-for-medium-up, th.hide-for-medium, td.hide-for-medium, th.show-for-medium-down, td.show-for-medium-down, th.hide-for-large-only, td.hide-for-large-only, th.hide-for-large-up, td.hide-for-large-up, th.hide-for-large, td.hide-for-large, th.show-for-large-down, td.show-for-large-down, th.hide-for-xlarge-only, td.hide-for-xlarge-only, th.hide-for-xlarge-up, td.hide-for-xlarge-up, th.hide-for-xlarge, td.hide-for-xlarge, th.show-for-xlarge-down, td.show-for-xlarge-down, th.hide-for-xxlarge-only, td.hide-for-xxlarge-only, th.hide-for-xxlarge-up, td.hide-for-xxlarge-up, th.hide-for-xxlarge, td.hide-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+ 8545:     display: table-cell !important;
+ 8546    }
+ 8547  }
+ ....
+ 8550    /* line 244, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8551    .hide-for-small-only, .show-for-small-up, .hide-for-small, .hide-for-small-down, .show-for-medium-only, .show-for-medium-up, .show-for-medium, .show-for-medium-down, .hide-for-large-only, .hide-for-large-up, .hide-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {
+ 8552:     display: inherit !important;
+ 8553    }
+ 8554  
+ 8555    /* line 247, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8556    .show-for-small-only, .hide-for-small-up, .show-for-small, .show-for-small-down, .hide-for-medium-only, .hide-for-medium-up, .hide-for-medium, .hide-for-medium-down, .show-for-large-only, .show-for-large-up, .show-for-large, .hide-for-large-down, .show-for-xlarge-only, .show-for-xlarge-up, .show-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .hide-for-xxlarge-down {
+ 8557:     display: none !important;
+ 8558    }
+ 8559  
+ 8560    /* line 251, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8561    .hidden-for-small-only, .visible-for-small-up, .hidden-for-small, .hidden-for-small-down, .visible-for-medium-only, .visible-for-medium-up, .visible-for-medium, .visible-for-medium-down, .hidden-for-large-only, .hidden-for-large-up, .hidden-for-large, .visible-for-large-down, .hidden-for-xlarge-only, .hidden-for-xlarge-up, .hidden-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .visible-for-xxlarge-down {
+ 8562:     position: static !important;
+ 8563      height: auto;
+ 8564      width: auto;
+ ....
+ 8569    /* line 254, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8570    .visible-for-small-only, .hidden-for-small-up, .visible-for-small, .visible-for-small-down, .hidden-for-medium-only, .hidden-for-medium-up, .hidden-for-medium, .hidden-for-medium-down, .visible-for-large-only, .visible-for-large-up, .visible-for-large, .hidden-for-large-down, .visible-for-xlarge-only, .visible-for-xlarge-up, .visible-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .hidden-for-xxlarge-down {
+ 8571:     position: absolute !important;
+ 8572      height: 1px;
+ 8573      width: 1px;
+ ....
+ 8578    /* line 259, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8579    table.hide-for-small-only, table.show-for-small-up, table.hide-for-small, table.hide-for-small-down, table.show-for-medium-only, table.show-for-medium-up, table.show-for-medium, table.show-for-medium-down, table.hide-for-large-only, table.hide-for-large-up, table.hide-for-large, table.show-for-large-down, table.hide-for-xlarge-only, table.hide-for-xlarge-up, table.hide-for-xlarge, table.show-for-xlarge-down, table.hide-for-xxlarge-only, table.hide-for-xxlarge-up, table.hide-for-xxlarge, table.show-for-xxlarge-down {
+ 8580:     display: table !important;
+ 8581    }
+ 8582  
+ 8583    /* line 262, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8584    thead.hide-for-small-only, thead.show-for-small-up, thead.hide-for-small, thead.hide-for-small-down, thead.show-for-medium-only, thead.show-for-medium-up, thead.show-for-medium, thead.show-for-medium-down, thead.hide-for-large-only, thead.hide-for-large-up, thead.hide-for-large, thead.show-for-large-down, thead.hide-for-xlarge-only, thead.hide-for-xlarge-up, thead.hide-for-xlarge, thead.show-for-xlarge-down, thead.hide-for-xxlarge-only, thead.hide-for-xxlarge-up, thead.hide-for-xxlarge, thead.show-for-xxlarge-down {
+ 8585:     display: table-header-group !important;
+ 8586    }
+ 8587  
+ 8588    /* line 265, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8589    tbody.hide-for-small-only, tbody.show-for-small-up, tbody.hide-for-small, tbody.hide-for-small-down, tbody.show-for-medium-only, tbody.show-for-medium-up, tbody.show-for-medium, tbody.show-for-medium-down, tbody.hide-for-large-only, tbody.hide-for-large-up, tbody.hide-for-large, tbody.show-for-large-down, tbody.hide-for-xlarge-only, tbody.hide-for-xlarge-up, tbody.hide-for-xlarge, tbody.show-for-xlarge-down, tbody.hide-for-xxlarge-only, tbody.hide-for-xxlarge-up, tbody.hide-for-xxlarge, tbody.show-for-xxlarge-down {
+ 8590:     display: table-row-group !important;
+ 8591    }
+ 8592  
+ ....
+ 8598    /* line 271, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8599    th.hide-for-small-only, td.hide-for-small-only, th.show-for-small-up, td.show-for-small-up, th.hide-for-small, td.hide-for-small, th.hide-for-small-down, td.hide-for-small-down, th.show-for-medium-only, td.show-for-medium-only, th.show-for-medium-up, td.show-for-medium-up, th.show-for-medium, td.show-for-medium, th.show-for-medium-down, td.show-for-medium-down, th.hide-for-large-only, td.hide-for-large-only, th.hide-for-large-up, td.hide-for-large-up, th.hide-for-large, td.hide-for-large, th.show-for-large-down, td.show-for-large-down, th.hide-for-xlarge-only, td.hide-for-xlarge-only, th.hide-for-xlarge-up, td.hide-for-xlarge-up, th.hide-for-xlarge, td.hide-for-xlarge, th.show-for-xlarge-down, td.show-for-xlarge-down, th.hide-for-xxlarge-only, td.hide-for-xxlarge-only, th.hide-for-xxlarge-up, td.hide-for-xxlarge-up, th.hide-for-xxlarge, td.hide-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+ 8600:     display: table-cell !important;
+ 8601    }
+ 8602  }
+ ....
+ 8605    /* line 244, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8606    .hide-for-small-only, .show-for-small-up, .hide-for-small, .hide-for-small-down, .hide-for-medium-only, .show-for-medium-up, .hide-for-medium, .hide-for-medium-down, .show-for-large-only, .show-for-large-up, .show-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {
+ 8607:     display: inherit !important;
+ 8608    }
+ 8609  
+ 8610    /* line 247, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8611    .show-for-small-only, .hide-for-small-up, .show-for-small, .show-for-small-down, .show-for-medium-only, .hide-for-medium-up, .show-for-medium, .show-for-medium-down, .hide-for-large-only, .hide-for-large-up, .hide-for-large, .hide-for-large-down, .show-for-xlarge-only, .show-for-xlarge-up, .show-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .hide-for-xxlarge-down {
+ 8612:     display: none !important;
+ 8613    }
+ 8614  
+ 8615    /* line 251, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8616    .hidden-for-small-only, .visible-for-small-up, .hidden-for-small, .hidden-for-small-down, .hidden-for-medium-only, .visible-for-medium-up, .hidden-for-medium, .hidden-for-medium-down, .visible-for-large-only, .visible-for-large-up, .visible-for-large, .visible-for-large-down, .hidden-for-xlarge-only, .hidden-for-xlarge-up, .hidden-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .visible-for-xxlarge-down {
+ 8617:     position: static !important;
+ 8618      height: auto;
+ 8619      width: auto;
+ ....
+ 8624    /* line 254, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8625    .visible-for-small-only, .hidden-for-small-up, .visible-for-small, .visible-for-small-down, .visible-for-medium-only, .hidden-for-medium-up, .visible-for-medium, .visible-for-medium-down, .hidden-for-large-only, .hidden-for-large-up, .hidden-for-large, .hidden-for-large-down, .visible-for-xlarge-only, .visible-for-xlarge-up, .visible-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .hidden-for-xxlarge-down {
+ 8626:     position: absolute !important;
+ 8627      height: 1px;
+ 8628      width: 1px;
+ ....
+ 8633    /* line 259, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8634    table.hide-for-small-only, table.show-for-small-up, table.hide-for-small, table.hide-for-small-down, table.hide-for-medium-only, table.show-for-medium-up, table.hide-for-medium, table.hide-for-medium-down, table.show-for-large-only, table.show-for-large-up, table.show-for-large, table.show-for-large-down, table.hide-for-xlarge-only, table.hide-for-xlarge-up, table.hide-for-xlarge, table.show-for-xlarge-down, table.hide-for-xxlarge-only, table.hide-for-xxlarge-up, table.hide-for-xxlarge, table.show-for-xxlarge-down {
+ 8635:     display: table !important;
+ 8636    }
+ 8637  
+ 8638    /* line 262, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8639    thead.hide-for-small-only, thead.show-for-small-up, thead.hide-for-small, thead.hide-for-small-down, thead.hide-for-medium-only, thead.show-for-medium-up, thead.hide-for-medium, thead.hide-for-medium-down, thead.show-for-large-only, thead.show-for-large-up, thead.show-for-large, thead.show-for-large-down, thead.hide-for-xlarge-only, thead.hide-for-xlarge-up, thead.hide-for-xlarge, thead.show-for-xlarge-down, thead.hide-for-xxlarge-only, thead.hide-for-xxlarge-up, thead.hide-for-xxlarge, thead.show-for-xxlarge-down {
+ 8640:     display: table-header-group !important;
+ 8641    }
+ 8642  
+ 8643    /* line 265, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8644    tbody.hide-for-small-only, tbody.show-for-small-up, tbody.hide-for-small, tbody.hide-for-small-down, tbody.hide-for-medium-only, tbody.show-for-medium-up, tbody.hide-for-medium, tbody.hide-for-medium-down, tbody.show-for-large-only, tbody.show-for-large-up, tbody.show-for-large, tbody.show-for-large-down, tbody.hide-for-xlarge-only, tbody.hide-for-xlarge-up, tbody.hide-for-xlarge, tbody.show-for-xlarge-down, tbody.hide-for-xxlarge-only, tbody.hide-for-xxlarge-up, tbody.hide-for-xxlarge, tbody.show-for-xxlarge-down {
+ 8645:     display: table-row-group !important;
+ 8646    }
+ 8647  
+ ....
+ 8653    /* line 271, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8654    th.hide-for-small-only, td.hide-for-small-only, th.show-for-small-up, td.show-for-small-up, th.hide-for-small, td.hide-for-small, th.hide-for-small-down, td.hide-for-small-down, th.hide-for-medium-only, td.hide-for-medium-only, th.show-for-medium-up, td.show-for-medium-up, th.hide-for-medium, td.hide-for-medium, th.hide-for-medium-down, td.hide-for-medium-down, th.show-for-large-only, td.show-for-large-only, th.show-for-large-up, td.show-for-large-up, th.show-for-large, td.show-for-large, th.show-for-large-down, td.show-for-large-down, th.hide-for-xlarge-only, td.hide-for-xlarge-only, th.hide-for-xlarge-up, td.hide-for-xlarge-up, th.hide-for-xlarge, td.hide-for-xlarge, th.show-for-xlarge-down, td.show-for-xlarge-down, th.hide-for-xxlarge-only, td.hide-for-xxlarge-only, th.hide-for-xxlarge-up, td.hide-for-xxlarge-up, th.hide-for-xxlarge, td.hide-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+ 8655:     display: table-cell !important;
+ 8656    }
+ 8657  }
+ ....
+ 8660    /* line 244, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8661    .hide-for-small-only, .show-for-small-up, .hide-for-small, .hide-for-small-down, .hide-for-medium-only, .show-for-medium-up, .hide-for-medium, .hide-for-medium-down, .hide-for-large-only, .show-for-large-up, .hide-for-large, .hide-for-large-down, .show-for-xlarge-only, .show-for-xlarge-up, .show-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .show-for-xxlarge-down {
+ 8662:     display: inherit !important;
+ 8663    }
+ 8664  
+ 8665    /* line 247, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8666    .show-for-small-only, .hide-for-small-up, .show-for-small, .show-for-small-down, .show-for-medium-only, .hide-for-medium-up, .show-for-medium, .show-for-medium-down, .show-for-large-only, .hide-for-large-up, .show-for-large, .show-for-large-down, .hide-for-xlarge-only, .hide-for-xlarge-up, .hide-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .hide-for-xxlarge-down {
+ 8667:     display: none !important;
+ 8668    }
+ 8669  
+ 8670    /* line 251, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8671    .hidden-for-small-only, .visible-for-small-up, .hidden-for-small, .hidden-for-small-down, .hidden-for-medium-only, .visible-for-medium-up, .hidden-for-medium, .hidden-for-medium-down, .hidden-for-large-only, .visible-for-large-up, .hidden-for-large, .hidden-for-large-down, .visible-for-xlarge-only, .visible-for-xlarge-up, .visible-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .visible-for-xxlarge-down {
+ 8672:     position: static !important;
+ 8673      height: auto;
+ 8674      width: auto;
+ ....
+ 8679    /* line 254, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8680    .visible-for-small-only, .hidden-for-small-up, .visible-for-small, .visible-for-small-down, .visible-for-medium-only, .hidden-for-medium-up, .visible-for-medium, .visible-for-medium-down, .visible-for-large-only, .hidden-for-large-up, .visible-for-large, .visible-for-large-down, .hidden-for-xlarge-only, .hidden-for-xlarge-up, .hidden-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .hidden-for-xxlarge-down {
+ 8681:     position: absolute !important;
+ 8682      height: 1px;
+ 8683      width: 1px;
+ ....
+ 8688    /* line 259, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8689    table.hide-for-small-only, table.show-for-small-up, table.hide-for-small, table.hide-for-small-down, table.hide-for-medium-only, table.show-for-medium-up, table.hide-for-medium, table.hide-for-medium-down, table.hide-for-large-only, table.show-for-large-up, table.hide-for-large, table.hide-for-large-down, table.show-for-xlarge-only, table.show-for-xlarge-up, table.show-for-xlarge, table.show-for-xlarge-down, table.hide-for-xxlarge-only, table.hide-for-xxlarge-up, table.hide-for-xxlarge, table.show-for-xxlarge-down {
+ 8690:     display: table !important;
+ 8691    }
+ 8692  
+ 8693    /* line 262, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8694    thead.hide-for-small-only, thead.show-for-small-up, thead.hide-for-small, thead.hide-for-small-down, thead.hide-for-medium-only, thead.show-for-medium-up, thead.hide-for-medium, thead.hide-for-medium-down, thead.hide-for-large-only, thead.show-for-large-up, thead.hide-for-large, thead.hide-for-large-down, thead.show-for-xlarge-only, thead.show-for-xlarge-up, thead.show-for-xlarge, thead.show-for-xlarge-down, thead.hide-for-xxlarge-only, thead.hide-for-xxlarge-up, thead.hide-for-xxlarge, thead.show-for-xxlarge-down {
+ 8695:     display: table-header-group !important;
+ 8696    }
+ 8697  
+ 8698    /* line 265, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8699    tbody.hide-for-small-only, tbody.show-for-small-up, tbody.hide-for-small, tbody.hide-for-small-down, tbody.hide-for-medium-only, tbody.show-for-medium-up, tbody.hide-for-medium, tbody.hide-for-medium-down, tbody.hide-for-large-only, tbody.show-for-large-up, tbody.hide-for-large, tbody.hide-for-large-down, tbody.show-for-xlarge-only, tbody.show-for-xlarge-up, tbody.show-for-xlarge, tbody.show-for-xlarge-down, tbody.hide-for-xxlarge-only, tbody.hide-for-xxlarge-up, tbody.hide-for-xxlarge, tbody.show-for-xxlarge-down {
+ 8700:     display: table-row-group !important;
+ 8701    }
+ 8702  
+ ....
+ 8708    /* line 271, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8709    th.hide-for-small-only, td.hide-for-small-only, th.show-for-small-up, td.show-for-small-up, th.hide-for-small, td.hide-for-small, th.hide-for-small-down, td.hide-for-small-down, th.hide-for-medium-only, td.hide-for-medium-only, th.show-for-medium-up, td.show-for-medium-up, th.hide-for-medium, td.hide-for-medium, th.hide-for-medium-down, td.hide-for-medium-down, th.hide-for-large-only, td.hide-for-large-only, th.show-for-large-up, td.show-for-large-up, th.hide-for-large, td.hide-for-large, th.hide-for-large-down, td.hide-for-large-down, th.show-for-xlarge-only, td.show-for-xlarge-only, th.show-for-xlarge-up, td.show-for-xlarge-up, th.show-for-xlarge, td.show-for-xlarge, th.show-for-xlarge-down, td.show-for-xlarge-down, th.hide-for-xxlarge-only, td.hide-for-xxlarge-only, th.hide-for-xxlarge-up, td.hide-for-xxlarge-up, th.hide-for-xxlarge, td.hide-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+ 8710:     display: table-cell !important;
+ 8711    }
+ 8712  }
+ ....
+ 8715    /* line 244, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8716    .hide-for-small-only, .show-for-small-up, .hide-for-small, .hide-for-small-down, .hide-for-medium-only, .show-for-medium-up, .hide-for-medium, .hide-for-medium-down, .hide-for-large-only, .show-for-large-up, .hide-for-large, .hide-for-large-down, .hide-for-xlarge-only, .show-for-xlarge-up, .hide-for-xlarge, .hide-for-xlarge-down, .show-for-xxlarge-only, .show-for-xxlarge-up, .show-for-xxlarge, .show-for-xxlarge-down {
+ 8717:     display: inherit !important;
+ 8718    }
+ 8719  
+ 8720    /* line 247, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8721    .show-for-small-only, .hide-for-small-up, .show-for-small, .show-for-small-down, .show-for-medium-only, .hide-for-medium-up, .show-for-medium, .show-for-medium-down, .show-for-large-only, .hide-for-large-up, .show-for-large, .show-for-large-down, .show-for-xlarge-only, .hide-for-xlarge-up, .show-for-xlarge, .show-for-xlarge-down, .hide-for-xxlarge-only, .hide-for-xxlarge-up, .hide-for-xxlarge, .hide-for-xxlarge-down {
+ 8722:     display: none !important;
+ 8723    }
+ 8724  
+ 8725    /* line 251, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8726    .hidden-for-small-only, .visible-for-small-up, .hidden-for-small, .hidden-for-small-down, .hidden-for-medium-only, .visible-for-medium-up, .hidden-for-medium, .hidden-for-medium-down, .hidden-for-large-only, .visible-for-large-up, .hidden-for-large, .hidden-for-large-down, .hidden-for-xlarge-only, .visible-for-xlarge-up, .hidden-for-xlarge, .hidden-for-xlarge-down, .visible-for-xxlarge-only, .visible-for-xxlarge-up, .visible-for-xxlarge, .visible-for-xxlarge-down {
+ 8727:     position: static !important;
+ 8728      height: auto;
+ 8729      width: auto;
+ ....
+ 8734    /* line 254, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8735    .visible-for-small-only, .hidden-for-small-up, .visible-for-small, .visible-for-small-down, .visible-for-medium-only, .hidden-for-medium-up, .visible-for-medium, .visible-for-medium-down, .visible-for-large-only, .hidden-for-large-up, .visible-for-large, .visible-for-large-down, .visible-for-xlarge-only, .hidden-for-xlarge-up, .visible-for-xlarge, .visible-for-xlarge-down, .hidden-for-xxlarge-only, .hidden-for-xxlarge-up, .hidden-for-xxlarge, .hidden-for-xxlarge-down {
+ 8736:     position: absolute !important;
+ 8737      height: 1px;
+ 8738      width: 1px;
+ ....
+ 8743    /* line 259, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8744    table.hide-for-small-only, table.show-for-small-up, table.hide-for-small, table.hide-for-small-down, table.hide-for-medium-only, table.show-for-medium-up, table.hide-for-medium, table.hide-for-medium-down, table.hide-for-large-only, table.show-for-large-up, table.hide-for-large, table.hide-for-large-down, table.hide-for-xlarge-only, table.show-for-xlarge-up, table.hide-for-xlarge, table.hide-for-xlarge-down, table.show-for-xxlarge-only, table.show-for-xxlarge-up, table.show-for-xxlarge, table.show-for-xxlarge-down {
+ 8745:     display: table !important;
+ 8746    }
+ 8747  
+ 8748    /* line 262, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8749    thead.hide-for-small-only, thead.show-for-small-up, thead.hide-for-small, thead.hide-for-small-down, thead.hide-for-medium-only, thead.show-for-medium-up, thead.hide-for-medium, thead.hide-for-medium-down, thead.hide-for-large-only, thead.show-for-large-up, thead.hide-for-large, thead.hide-for-large-down, thead.hide-for-xlarge-only, thead.show-for-xlarge-up, thead.hide-for-xlarge, thead.hide-for-xlarge-down, thead.show-for-xxlarge-only, thead.show-for-xxlarge-up, thead.show-for-xxlarge, thead.show-for-xxlarge-down {
+ 8750:     display: table-header-group !important;
+ 8751    }
+ 8752  
+ 8753    /* line 265, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8754    tbody.hide-for-small-only, tbody.show-for-small-up, tbody.hide-for-small, tbody.hide-for-small-down, tbody.hide-for-medium-only, tbody.show-for-medium-up, tbody.hide-for-medium, tbody.hide-for-medium-down, tbody.hide-for-large-only, tbody.show-for-large-up, tbody.hide-for-large, tbody.hide-for-large-down, tbody.hide-for-xlarge-only, tbody.show-for-xlarge-up, tbody.hide-for-xlarge, tbody.hide-for-xlarge-down, tbody.show-for-xxlarge-only, tbody.show-for-xxlarge-up, tbody.show-for-xxlarge, tbody.show-for-xxlarge-down {
+ 8755:     display: table-row-group !important;
+ 8756    }
+ 8757  
+ ....
+ 8763    /* line 271, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8764    th.hide-for-small-only, td.hide-for-small-only, th.show-for-small-up, td.show-for-small-up, th.hide-for-small, td.hide-for-small, th.hide-for-small-down, td.hide-for-small-down, th.hide-for-medium-only, td.hide-for-medium-only, th.show-for-medium-up, td.show-for-medium-up, th.hide-for-medium, td.hide-for-medium, th.hide-for-medium-down, td.hide-for-medium-down, th.hide-for-large-only, td.hide-for-large-only, th.show-for-large-up, td.show-for-large-up, th.hide-for-large, td.hide-for-large, th.hide-for-large-down, td.hide-for-large-down, th.hide-for-xlarge-only, td.hide-for-xlarge-only, th.show-for-xlarge-up, td.show-for-xlarge-up, th.hide-for-xlarge, td.hide-for-xlarge, th.hide-for-xlarge-down, td.hide-for-xlarge-down, th.show-for-xxlarge-only, td.show-for-xxlarge-only, th.show-for-xxlarge-up, td.show-for-xxlarge-up, th.show-for-xxlarge, td.show-for-xxlarge, th.show-for-xxlarge-down, td.show-for-xxlarge-down {
+ 8765:     display: table-cell !important;
+ 8766    }
+ 8767  }
+ ....
+ 8770  .show-for-landscape,
+ 8771  .hide-for-portrait {
+ 8772:   display: inherit !important;
+ 8773  }
+ 8774  
+ ....
+ 8776  .hide-for-landscape,
+ 8777  .show-for-portrait {
+ 8778:   display: none !important;
+ 8779  }
+ 8780  
+ ....
+ 8782  /* line 292, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8783  table.hide-for-landscape, table.show-for-portrait {
+ 8784:   display: table !important;
+ 8785  }
+ 8786  
+ 8787  /* line 296, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8788  thead.hide-for-landscape, thead.show-for-portrait {
+ 8789:   display: table-header-group !important;
+ 8790  }
+ 8791  
+ 8792  /* line 300, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8793  tbody.hide-for-landscape, tbody.show-for-portrait {
+ 8794:   display: table-row-group !important;
+ 8795  }
+ 8796  
+ 8797  /* line 304, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8798  tr.hide-for-landscape, tr.show-for-portrait {
+ 8799:   display: table-row !important;
+ 8800  }
+ 8801  
+ ....
+ 8804  th.hide-for-landscape,
+ 8805  th.show-for-portrait {
+ 8806:   display: table-cell !important;
+ 8807  }
+ 8808  
+ ....
+ 8811    .show-for-landscape,
+ 8812    .hide-for-portrait {
+ 8813:     display: inherit !important;
+ 8814    }
+ 8815  
+ ....
+ 8817    .hide-for-landscape,
+ 8818    .show-for-portrait {
+ 8819:     display: none !important;
+ 8820    }
+ 8821  
+ ....
+ 8823    /* line 321, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8824    table.show-for-landscape, table.hide-for-portrait {
+ 8825:     display: table !important;
+ 8826    }
+ 8827  
+ 8828    /* line 325, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8829    thead.show-for-landscape, thead.hide-for-portrait {
+ 8830:     display: table-header-group !important;
+ 8831    }
+ 8832  
+ 8833    /* line 329, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8834    tbody.show-for-landscape, tbody.hide-for-portrait {
+ 8835:     display: table-row-group !important;
+ 8836    }
+ 8837  
+ 8838    /* line 333, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8839    tr.show-for-landscape, tr.hide-for-portrait {
+ 8840:     display: table-row !important;
+ 8841    }
+ 8842  
+ ....
+ 8845    th.show-for-landscape,
+ 8846    th.hide-for-portrait {
+ 8847:     display: table-cell !important;
+ 8848    }
+ 8849  }
+ ....
+ 8852    .show-for-portrait,
+ 8853    .hide-for-landscape {
+ 8854:     display: inherit !important;
+ 8855    }
+ 8856  
+ ....
+ 8858    .hide-for-portrait,
+ 8859    .show-for-landscape {
+ 8860:     display: none !important;
+ 8861    }
+ 8862  
+ ....
+ 8864    /* line 351, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8865    table.show-for-portrait, table.hide-for-landscape {
+ 8866:     display: table !important;
+ 8867    }
+ 8868  
+ 8869    /* line 355, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8870    thead.show-for-portrait, thead.hide-for-landscape {
+ 8871:     display: table-header-group !important;
+ 8872    }
+ 8873  
+ 8874    /* line 359, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8875    tbody.show-for-portrait, tbody.hide-for-landscape {
+ 8876:     display: table-row-group !important;
+ 8877    }
+ 8878  
+ 8879    /* line 363, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8880    tr.show-for-portrait, tr.hide-for-landscape {
+ 8881:     display: table-row !important;
+ 8882    }
+ 8883  
+ ....
+ 8886    th.show-for-portrait,
+ 8887    th.hide-for-landscape {
+ 8888:     display: table-cell !important;
+ 8889    }
+ 8890  }
+ ....
+ 8892  /* line 374, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8893  .show-for-touch {
+ 8894:   display: none !important;
+ 8895  }
+ 8896  
+ 8897  /* line 375, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8898  .hide-for-touch {
+ 8899:   display: inherit !important;
+ 8900  }
+ 8901  
+ 8902  /* line 376, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8903  .touch .show-for-touch {
+ 8904:   display: inherit !important;
+ 8905  }
+ 8906  
+ 8907  /* line 377, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8908  .touch .hide-for-touch {
+ 8909:   display: none !important;
+ 8910  }
+ 8911  
+ ....
+ 8913  /* line 380, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8914  table.hide-for-touch {
+ 8915:   display: table !important;
+ 8916  }
+ 8917  
+ 8918  /* line 381, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8919  .touch table.show-for-touch {
+ 8920:   display: table !important;
+ 8921  }
+ 8922  
+ 8923  /* line 382, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8924  thead.hide-for-touch {
+ 8925:   display: table-header-group !important;
+ 8926  }
+ 8927  
+ 8928  /* line 383, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8929  .touch thead.show-for-touch {
+ 8930:   display: table-header-group !important;
+ 8931  }
+ 8932  
+ 8933  /* line 384, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8934  tbody.hide-for-touch {
+ 8935:   display: table-row-group !important;
+ 8936  }
+ 8937  
+ 8938  /* line 385, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8939  .touch tbody.show-for-touch {
+ 8940:   display: table-row-group !important;
+ 8941  }
+ 8942  
+ 8943  /* line 386, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8944  tr.hide-for-touch {
+ 8945:   display: table-row !important;
+ 8946  }
+ 8947  
+ 8948  /* line 387, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8949  .touch tr.show-for-touch {
+ 8950:   display: table-row !important;
+ 8951  }
+ 8952  
+ 8953  /* line 388, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8954  td.hide-for-touch {
+ 8955:   display: table-cell !important;
+ 8956  }
+ 8957  
+ 8958  /* line 389, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8959  .touch td.show-for-touch {
+ 8960:   display: table-cell !important;
+ 8961  }
+ 8962  
+ 8963  /* line 390, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8964  th.hide-for-touch {
+ 8965:   display: table-cell !important;
+ 8966  }
+ 8967  
+ 8968  /* line 391, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8969  .touch th.show-for-touch {
+ 8970:   display: table-cell !important;
+ 8971  }
+ 8972  
+ ....
+ 8979  /* line 401, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8980  .print-only {
+ 8981:   display: none !important;
+ 8982  }
+ 8983  
+ ....
+ 8985    /* line 403, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 8986    * {
+ 8987:     background: transparent !important;
+ 8988:     color: #000000 !important;
+ 8989      /* Black prints faster: h5bp.com/s */
+ 8990:     box-shadow: none !important;
+ 8991:     text-shadow: none !important;
+ 8992    }
+ 8993  
+ ....
+ 9004    /* line 412, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 9005    table.show-for-print {
+ 9006:     display: table !important;
+ 9007    }
+ 9008  
+ 9009    /* line 413, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 9010    thead.show-for-print {
+ 9011:     display: table-header-group !important;
+ 9012    }
+ 9013  
+ 9014    /* line 414, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 9015    tbody.show-for-print {
+ 9016:     display: table-row-group !important;
+ 9017    }
+ 9018  
+ 9019    /* line 415, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 9020    tr.show-for-print {
+ 9021:     display: table-row !important;
+ 9022    }
+ 9023  
+ 9024    /* line 416, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 9025    td.show-for-print {
+ 9026:     display: table-cell !important;
+ 9027    }
+ 9028  
+ 9029    /* line 417, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 9030    th.show-for-print {
+ 9031:     display: table-cell !important;
+ 9032    }
+ 9033  
+ ....
+ 9076    /* line 441, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 9077    img {
+ 9078:     max-width: 100% !important;
+ 9079    }
+ 9080  
+ ....
+ 9098    /* line 455, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 9099    .hide-on-print {
+ 9100:     display: none !important;
+ 9101    }
+ 9102  
+ 9103    /* line 456, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 9104    .print-only {
+ 9105:     display: block !important;
+ 9106    }
+ 9107  
+ 9108    /* line 457, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 9109    .hide-for-print {
+ 9110:     display: none !important;
+ 9111    }
+ 9112  
+ 9113    /* line 458, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 9114    .show-for-print {
+ 9115:     display: inherit !important;
+ 9116    }
+ 9117  }
+ ....
+ 9130    /* line 467, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 9131    table.show-for-print {
+ 9132:     display: table !important;
+ 9133    }
+ 9134  
+ 9135    /* line 468, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 9136    thead.show-for-print {
+ 9137:     display: table-header-group !important;
+ 9138    }
+ 9139  
+ 9140    /* line 469, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 9141    tbody.show-for-print {
+ 9142:     display: table-row-group !important;
+ 9143    }
+ 9144  
+ 9145    /* line 470, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 9146    tr.show-for-print {
+ 9147:     display: table-row !important;
+ 9148    }
+ 9149  
+ 9150    /* line 471, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 9151    td.show-for-print {
+ 9152:     display: table-cell !important;
+ 9153    }
+ 9154  
+ 9155    /* line 472, ../bower_components/foundation/scss/foundation/components/_visibility.scss */
+ 9156    th.show-for-print {
+ 9157:     display: table-cell !important;
+ 9158    }
+ 9159  }
+
+615 matches across 21 files
